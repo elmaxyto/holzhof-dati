@@ -12373,7 +12373,7 @@
   },
   {
     "codice": "xom9",
-    "nome": "",
+    "nome": "Nemy",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XO Ocean/xom9 Nemy pesciolino",
     "categoria": "GIOCHI A MOLLA",
     "supercategoria": "GIOCHI",
@@ -17485,107 +17485,163 @@
   },
   {
     "codice": "xm144",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XM Max/Composizioni Max/xm/xm144",
+    "nome": "",
     "categoria": "MAX - SULTAN",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "xm144_3d_render.png"
+        "file": "Backup of xm144_tavola prospect.layout",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xm144_tavola_prospect.pdf"
+        "file": "Thumbs.db",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xm144_3d_sketchup.skp"
+        "file": "xm144_3d_autocad.dwg",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm144_pianta.dwg"
+        "file": "xm144_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm144_piante.dwg"
+        "file": "xm144_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm144_piante_sito.dwg"
+        "file": "xm144_3d_sketchup.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm144_gomma.pdf"
+        "file": "xm144_3d_sketchup.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm144_scavi.pdf"
+        "file": "xm144_gomma.pdf",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm144_sicurezza.pdf"
+        "file": "xm144_montaggio - collegamento.lnk",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm144_sfuso.pdf"
+        "file": "xm144_piante.bak",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm144_montaggio.pdf"
+        "file": "xm144_piante.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xm144_piante_sito.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xm144_scavi.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm144_sfuso.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm144_sicurezza.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm144_tavola prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xm144_tavola_prospect.pdf",
+        "status": "ok"
       }
     ]
   },
   {
     "codice": "xm144r",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XM Max/Composizioni Max/xm/xm144r",
+    "nome": "",
     "categoria": "MAX - SULTAN",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "xm144r_3d_render.png"
+        "file": "Backup of xm144r_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "xm144r_tavola_prospect.layout"
+        "file": "Backup of xm144r_tavola_prospect2024.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "xm144r_tavola_prospect.pdf"
+        "file": "Backup of xm144_tavola_prospect2024.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "xm144r_3d_sketchup.skp"
+        "file": "Thumbs.db",
+        "status": "err"
       },
       {
-        "status": "err",
-        "file": "xm144r_pianta.dwg"
+        "file": "xm144r_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm144r_piante.dwg"
+        "file": "xm144r_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm144r_gomma.pdf"
+        "file": "xm144r_3d_sketchup.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm144r_scavi.pdf"
+        "file": "xm144r_3d_sketchup.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm144r_sicurezza.pdf"
+        "file": "xm144r_gomma.pdf",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm144r_sfuso.pdf"
+        "file": "xm144r_montaggio - collegamento.lnk",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm144r_montaggio.pdf"
+        "file": "xm144r_piante.bak",
+        "status": "ok"
+      },
+      {
+        "file": "xm144r_piante.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xm144r_piante2024.bak",
+        "status": "ok"
+      },
+      {
+        "file": "xm144r_piate_sito.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xm144r_scavi.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm144r_sfuso.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm144r_sicurezza.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm144r_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xm144r_tavola_prospect.pdf",
+        "status": "ok"
       }
     ]
   },
@@ -36225,6 +36281,10 @@
         "status": "err"
       },
       {
+        "file": "xm144alu_3d_render.png",
+        "status": "ok"
+      },
+      {
         "file": "xm144alu_3d_sketchup.skb",
         "status": "ok"
       },
@@ -36242,6 +36302,39 @@
       },
       {
         "file": "xm144_alu_3d_render.png",
+        "status": "warn"
+      }
+    ]
+  },
+  {
+    "codice": "xm200alu",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XM Max/Composizioni Max/xm/xm200-200p/xm200/alu",
+    "nome": "",
+    "categoria": "MAX - SULTAN",
+    "supercategoria": "GIOCHI",
+    "files": [
+      {
+        "file": "Backup of xm 200_ALU_tavola_prospect.layout",
+        "status": "warn"
+      },
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xm 200_ALU_tavola_prospect.layout",
+        "status": "warn"
+      },
+      {
+        "file": "xm200_3d_alu_sketchup.skb",
+        "status": "err"
+      },
+      {
+        "file": "xm200_3d_alu_sketchup.skp",
+        "status": "err"
+      },
+      {
+        "file": "xm200_alu_3d_render.png",
         "status": "warn"
       }
     ]
