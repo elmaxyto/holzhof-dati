@@ -17018,54 +17018,78 @@
   },
   {
     "codice": "xm100rap",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XM Max/Composizioni Max/xm/xm100rap",
+    "nome": "",
     "categoria": "MAX - SULTAN",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "xm100rap_3d_render.png"
+        "file": "Backup of xm100rap_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "xm100rap_tavola_prospect.layout"
+        "file": "Thumbs.db",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xm100rap_tavola_prospect.pdf"
+        "file": "xm100rap_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm100rap_3d_sketchup.skp"
+        "file": "xm100rap_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm100rap_pianta.dwg"
+        "file": "xm100rap_3d_sketchfab.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm100rap_piante.dwg"
+        "file": "xm100rap_3d_sketchfab.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm100rap_gomma.pdf"
+        "file": "xm100rap_3d_sketchup.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm100rap_scavi.pdf"
+        "file": "xm100rap_3d_sketchup.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm100rap_sicurezza.pdf"
+        "file": "xm100rap_gomma.pdf",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm100rap_sfuso.pdf"
+        "file": "xm100rap_montaggio - collegamento.lnk",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm100rap_montaggio.pdf"
+        "file": "xm100rap_piante.bak",
+        "status": "ok"
+      },
+      {
+        "file": "xm100rap_piante.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xm100rap_scavi.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm100rap_sfuso.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm100rap_sicurezza.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm100rap_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xm100rap_tavola_prospect.pdf",
+        "status": "ok"
       }
     ]
   },
