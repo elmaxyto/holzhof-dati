@@ -12373,7 +12373,7 @@
   },
   {
     "codice": "xom9",
-    "nome": "",
+    "nome": "Nemy",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XO Ocean/xom9 Nemy pesciolino",
     "categoria": "GIOCHI A MOLLA",
     "supercategoria": "GIOCHI",
@@ -36226,19 +36226,19 @@
       },
       {
         "file": "xm144alu_3d_sketchup.skb",
-        "status": "ok"
+        "status": "err"
       },
       {
         "file": "xm144alu_3d_sketchup.skp",
-        "status": "ok"
+        "status": "warn"
       },
       {
         "file": "xm144alu_tavola prospect.layout",
-        "status": "ok"
+        "status": "err"
       },
       {
         "file": "xm144alu_tavola prospect.pdf",
-        "status": "ok"
+        "status": "err"
       },
       {
         "file": "xm144_alu_3d_render.png",
