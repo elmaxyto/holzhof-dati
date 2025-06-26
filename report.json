@@ -17720,58 +17720,86 @@
   },
   {
     "codice": "xm200p",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XM Max/Composizioni Max/xm/xm200-200p/xm200p",
+    "nome": "",
     "categoria": "MAX - SULTAN",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "xm200p_3d_render.png"
+        "file": "Backup of xm200p_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "xm200p_tavola_prospect.layout"
+        "file": "Thumbs.db",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xm200p_tavola_prospect.pdf"
+        "file": "xm200p_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm200p_3d_sketchup.skp"
+        "file": "xm200p_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm200p_pianta.dwg"
+        "file": "xm200p_3d_sketchfab.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm200p_piante.dwg"
+        "file": "xm200p_3d_sketchfab.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm200p_piante_sito.dwg"
+        "file": "xm200p_3d_sketchup.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm200p_gomma.pdf"
+        "file": "xm200p_3d_sketchup.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm200p_scavi.pdf"
+        "file": "xm200p_gomma.pdf",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm200p_sicurezza.pdf"
+        "file": "xm200p_montaggio - collegamento.lnk",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm200p_sfuso.pdf"
+        "file": "xm200p_piante.bak",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm200p_montaggio.pdf"
+        "file": "xm200p_piante.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xm200p_piante_sito.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xm200p_scavi.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm200p_sfuso.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm200p_sicurezza.bak",
+        "status": "ok"
+      },
+      {
+        "file": "xm200p_siucurezza.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm200p_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xm200p_tavola_prospect.pdf",
+        "status": "ok"
       }
     ]
   },
