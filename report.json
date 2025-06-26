@@ -18515,286 +18515,450 @@
   },
   {
     "codice": "xm309p",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XM Max/Composizioni Max/xm/xm309p",
+    "nome": "",
     "categoria": "MAX - SULTAN",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "xm309p_3d_render.png"
+        "file": "Backup di xm309p_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "xm309p_tavola_prospect.layout"
+        "file": "Backup of xm309p_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "xm309p_tavola_prospect.pdf"
+        "file": "Thumbs.db",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xm309p_3d_sketchup.skp"
+        "file": "xm309p_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm309p_pianta.dwg"
+        "file": "xm309p_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm309p_piante.dwg"
+        "file": "xm309p_3d_sketchfab.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm309p_piante_sito.dwg"
+        "file": "xm309p_3d_sketchfab.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm309p_gomma.pdf"
+        "file": "xm309p_3d_sketchup.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm309p_scavi.pdf"
+        "file": "xm309p_3d_sketchup.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm309p_sicurezza.pdf"
+        "file": "xm309p_gomma.pdf",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm309p_sfuso.pdf"
+        "file": "xm309p_montaggio.pdf",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm309p_montaggio.pdf"
+        "file": "xm309p_montaggio.pdf - collegamento.lnk",
+        "status": "ok"
+      },
+      {
+        "file": "xm309p_piante-sicurezza.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm309p_piante.bak",
+        "status": "ok"
+      },
+      {
+        "file": "xm309p_piante.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xm309p_piante_sito.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xm309p_scavi.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm309p_sfuso.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm309p_sicurezza.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm309p_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xm309p_tavola_prospect.pdf",
+        "status": "ok"
       }
     ]
   },
   {
     "codice": "xm309pt",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XM Max/Composizioni Max/xm/xm309pt",
+    "nome": "",
     "categoria": "MAX - SULTAN",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "xm309pt_3d_render.png"
+        "file": "Backup di xm309pt_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "xm309pt_tavola_prospect.layout"
+        "file": "Backup of xm309pt_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "xm309pt_tavola_prospect.pdf"
+        "file": "Thumbs.db",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xm309pt_3d_sketchup.skp"
+        "file": "xm309pt_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm309pt_pianta.dwg"
+        "file": "xm309pt_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm309pt_piante.dwg"
+        "file": "xm309pt_3d_sketchfab.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm309pt_piante_sito.dwg"
+        "file": "xm309pt_3d_sketchfab.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm309pt_gomma.pdf"
+        "file": "xm309pt_3d_sketchup.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm309pt_scavi.pdf"
+        "file": "xm309pt_3d_sketchup.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm309pt_sicurezza.pdf"
+        "file": "xm309pt_gomma.pdf",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm309pt_sfuso.pdf"
+        "file": "xm309pt_montaggio.pdf - IT.lnk",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm309pt_montaggio.pdf"
+        "file": "xm309pt_montaggio_2003.pdf - EN.lnk",
+        "status": "ok"
+      },
+      {
+        "file": "xm309pt_piante.bak",
+        "status": "ok"
+      },
+      {
+        "file": "xm309pt_piante.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xm309pt_piante_sito.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xm309pt_scavi.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm309pt_sfuso.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm309pt_sicurezza.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm309pt_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xm309pt_tavola_prospect.pdf",
+        "status": "ok"
       }
     ]
   },
   {
     "codice": "xm402",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XM Max/Composizioni Max/xm/xm402",
+    "nome": "",
     "categoria": "MAX - SULTAN",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "xm402_3d_render.png"
+        "file": "Backup di xm402_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "xm402_tavola_prospect.layout"
+        "file": "Backup of xm402_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "xm402_tavola_prospect.pdf"
+        "file": "Thumbs.db",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xm402_3d_sketchup.skp"
+        "file": "xa100rap_piante.bak",
+        "status": "err"
       },
       {
-        "status": "err",
-        "file": "xm402_pianta.dwg"
+        "file": "xm402_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm402_piante.dwg"
+        "file": "xm402_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm402_piante_sito.dwg"
+        "file": "xm402_3d_sketchfab.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm402_gomma.pdf"
+        "file": "xm402_3d_sketchfab.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm402_scavi.pdf"
+        "file": "xm402_3d_sketchup.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm402_sicurezza.pdf"
+        "file": "xm402_3d_sketchup.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm402_sfuso.pdf"
+        "file": "xm402_gomma.pdf",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm402_montaggio.pdf"
+        "file": "xm402_montaggio.pdf - IT.lnk",
+        "status": "ok"
+      },
+      {
+        "file": "xm402_montaggio_2003.pdf - EN.lnk",
+        "status": "ok"
+      },
+      {
+        "file": "xm402_piante.bak",
+        "status": "ok"
+      },
+      {
+        "file": "xm402_piante.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xm402_piante_sito.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xm402_scavi.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm402_sfuso.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm402_sicurezza.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm402_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xm402_tavola_prospect.pdf",
+        "status": "ok"
       }
     ]
   },
   {
     "codice": "xm403",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XM Max/Composizioni Max/xm/xm403",
+    "nome": "",
     "categoria": "MAX - SULTAN",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "xm403_3d_render.png"
+        "file": "20221005_065447.jpg",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xm403_tavola_prospect.layout"
+        "file": "20221005_073016.jpg",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xm403_tavola_prospect.pdf"
+        "file": "Backup di xm403_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "xm403_3d_sketchup.skp"
+        "file": "Backup of xm403_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "err",
-        "file": "xm403_pianta.dwg"
+        "file": "Thumbs.db",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xm403_piante.dwg"
+        "file": "xm403_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm403_piante_sito.dwg"
+        "file": "xm403_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm403_gomma.pdf"
+        "file": "xm403_3d_sketchfab.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm403_scavi.pdf"
+        "file": "xm403_3d_sketchfab.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm403_sicurezza.pdf"
+        "file": "xm403_3d_sketchup.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm403_sfuso.pdf"
+        "file": "xm403_3d_sketchup.skp",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm403_montaggio.pdf"
+        "file": "xm403_descrizione.txt",
+        "status": "ok"
+      },
+      {
+        "file": "xm403_gomma.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm403_montaggio - collegamento.lnk",
+        "status": "ok"
+      },
+      {
+        "file": "xm403_piante.bak",
+        "status": "ok"
+      },
+      {
+        "file": "xm403_piante.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xm403_piante_sito.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xm403_scavi.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm403_sfuso.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm403_sicurezza.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm403_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xm403_tavola_prospect.pdf",
+        "status": "ok"
       }
     ]
   },
   {
     "codice": "xm404",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XM Max/Composizioni Max/xm/xm404",
+    "nome": "",
     "categoria": "MAX - SULTAN",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "xm404_3d_render.png"
+        "file": "Backup di xm404_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "xm404_tavola_prospect.layout"
+        "file": "Backup of xm404_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "xm404_tavola_prospect.pdf"
+        "file": "Thumbs.db",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xm404_3d_sketchup.skp"
+        "file": "xm404_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm404_pianta.dwg"
+        "file": "xm404_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm404_piante.dwg"
+        "file": "xm404_3d_sketchup.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm404_piante_sito.dwg"
+        "file": "xm404_3d_sketchup.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm404_gomma.pdf"
+        "file": "xm404_gomma.pdf",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm404_scavi.pdf"
+        "file": "xm404_montaggio.pdf - IT.lnk",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm404_sicurezza.pdf"
+        "file": "xm404_piante.bak",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm404_sfuso.pdf"
+        "file": "xm404_piante.dwg",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm404_montaggio.pdf"
+        "file": "xm404_piante_sito.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xm404_scavi.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm404_sfuso.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm404_sicurezza.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm404_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xm404_tavola_prospect.pdf",
+        "status": "ok"
       }
     ]
   },
