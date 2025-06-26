@@ -18044,58 +18044,82 @@
   },
   {
     "codice": "xm208",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XM Max/Composizioni Max/xm/xm208",
+    "nome": "",
     "categoria": "MAX - SULTAN",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "xm208_3d_render.png"
+        "file": "Backup of xm208_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "xm208_tavola_prospect.layout"
+        "file": "Thumbs.db",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xm208_tavola_prospect.pdf"
+        "file": "xm208_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm208_3d_sketchup.skp"
+        "file": "xm208_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm208_pianta.dwg"
+        "file": "xm208_3d_sketchfab.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm208_piante.dwg"
+        "file": "xm208_3d_sketchfab.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm208_piante_sito.dwg"
+        "file": "xm208_3d_sketchup.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm208_gomma.pdf"
+        "file": "xm208_3d_sketchup.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm208_scavi.pdf"
+        "file": "xm208_gomma.pdf",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm208_sicurezza.pdf"
+        "file": "xm208_montaggio - collegamento.lnk",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm208_sfuso.pdf"
+        "file": "xm208_piante.bak",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm208_montaggio.pdf"
+        "file": "xm208_piante.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xm208_piante_sito.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xm208_scavi.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm208_sfuso.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm208_sicurezza.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm208_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xm208_tavola_prospect.pdf",
+        "status": "ok"
       }
     ]
   },
