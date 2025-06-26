@@ -17647,58 +17647,74 @@
   },
   {
     "codice": "xm200",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XM Max/Composizioni Max/xm/xm200-200p/xm200",
+    "nome": "",
     "categoria": "MAX - SULTAN",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "xm200_3d_render.png"
+        "file": "Thumbs.db",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xm200_tavola_prospect.layout"
+        "file": "xm 200_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "xm200_tavola_prospect.pdf"
+        "file": "xm200_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm200_3d_sketchup.skp"
+        "file": "xm200_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm200_pianta.dwg"
+        "file": "xm200_3d_sketchup.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm200_piante.dwg"
+        "file": "xm200_3d_sketchup.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm200_piante_sito.dwg"
+        "file": "xm200_gomma.pdf",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm200_gomma.pdf"
+        "file": "xm200_montaggio - collegamento.lnk",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm200_scavi.pdf"
+        "file": "xm200_piante.bak",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm200_sicurezza.pdf"
+        "file": "xm200_piante.dwg",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xm200_sfuso.pdf"
+        "file": "xm200_piante_sito.dwg",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xm200_montaggio.pdf"
+        "file": "xm200_scavi.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm200_sfuso.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm200_sicurezza.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xm200_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xm200_tavola_prospect.pdf",
+        "status": "ok"
       }
     ]
   },
@@ -36324,6 +36340,14 @@
       {
         "file": "xm 200_ALU_tavola_prospect.layout",
         "status": "warn"
+      },
+      {
+        "file": "xm200alu_3d_render.png",
+        "status": "ok"
+      },
+      {
+        "file": "xm200alu_3d_render.png.bak",
+        "status": "ok"
       },
       {
         "file": "xm200_3d_alu_sketchup.skb",
