@@ -24877,62 +24877,42 @@
   },
   {
     "codice": "pa15",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/Attrezzi Dog/PA15 Passerella Small",
+    "nome": "",
     "categoria": "AGILITY DOG",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "err",
-        "file": "pa15_3d_render.png"
+        "file": "Backup di PA15_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "PA15_tavola_prospect.layout"
+        "file": "pa15_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "PA15_tavola_prospect.pdf"
+        "file": "Pa15_3d_sketchup.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "pa15_pianta.dwg"
+        "file": "pa15_montaggio.pdf",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "pa15_piante.dwg"
+        "file": "pa15_pianta.dwg",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "pa15_gomma.pdf"
+        "file": "PA15_tavola_prospect.layout",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "pa15_scavi.pdf"
+        "file": "PA15_tavola_prospect.pdf",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "pa15_sicurezza.pdf"
-      },
-      {
-        "status": "err",
-        "file": "pa15_sfuso.pdf"
-      },
-      {
-        "status": "ok",
-        "file": "pa15_montaggio.pdf"
-      },
-      {
-        "status": "warn",
-        "file": "Backup di PA15_tavola_prospect.layout"
-      },
-      {
-        "status": "ok",
-        "file": "pa15_3d_sketchup.skp"
-      },
-      {
-        "status": "ok",
-        "file": "pa15_3d_render.png"
+        "file": "Thumbs.db",
+        "status": "err"
       }
     ]
   },
