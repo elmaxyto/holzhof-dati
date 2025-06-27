@@ -20570,58 +20570,94 @@
   },
   {
     "codice": "xoa100lt",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa100 LT",
+    "nome": "",
     "categoria": "OASIS",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "xoa100lt_3d_render.jpg"
+        "file": "Thumbs.db",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xoa100lt_tavola_prospect.layout"
+        "file": "XOA Oasis - collegamento.lnk",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xoa100lt_tavola_prospect.pdf"
+        "file": "xoa100lt_3d_render.jpg",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xoa100lt_3d_sketchup.skp"
+        "file": "xoa100lt_3d_render.jpg.bak",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xoa100lt_pianta.dwg"
+        "file": "xoa100lt_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xoa100lt_piante.dwg"
+        "file": "xoa100lt_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xoa100lt_piante_sito.dwg"
+        "file": "xoa100lt_3d_render01.png",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xoa100lt_gomma.pdf"
+        "file": "xoa100lt_3d_render02.jpg",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xoa100lt_scavi.pdf"
+        "file": "xoa100lt_3d_render02.png",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xoa100lt_sicurezza.pdf"
+        "file": "xoa100lt_3d_sketchup(tetto_pe).skp",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xoa100lt_sfuso.pdf"
+        "file": "xoa100lt_3d_sketchup-0.skp",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xoa100lt_montaggio.pdf"
+        "file": "xoa100lt_3d_sketchup.skp",
+        "status": "ok"
+      },
+      {
+        "file": "xoa100lt_montaggio.pdf - IT OLD.lnk",
+        "status": "ok"
+      },
+      {
+        "file": "xoa100lt_pianta.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xoa100lt_piante.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xoa100lt_piante_sito.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xoa100lt_scavi.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xoa100lt_sicurezza.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xoa100lt_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xoa100lt_tavola_prospect.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xoa100l_xoa100_xoa100lt_pianta.dwg",
+        "status": "warn"
       }
     ]
   },
@@ -20684,54 +20720,58 @@
   },
   {
     "codice": "xoa103",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa103",
+    "nome": "",
     "categoria": "OASIS",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "xoa103_3d_render.jpg"
+        "file": "Thumbs.db",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xoa103_tavola_prospect.layout"
+        "file": "xoa103_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xoa103_tavola_prospect.pdf"
+        "file": "xoa103_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xoa103_3d_sketchup.skp"
+        "file": "xoa103_3d_sketchup.skp",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xoa103_pianta.dwg"
+        "file": "xoa103_piante.dwg",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xoa103_piante.dwg"
+        "file": "xoa103_scavi.pdf",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xoa103_gomma.pdf"
+        "file": "xoa103_sicurezza.pdf",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xoa103_scavi.pdf"
+        "file": "xoa103_tavola_prospect.layout",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xoa103_sicurezza.pdf"
+        "file": "xoa103_tavola_prospect.pdf",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xoa103_sfuso.pdf"
+        "file": "xoa103_xoa103l_montaggio - OLD.lnk",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xoa103_montaggio.pdf"
+        "file": "xoa103_xoa103l_pianta - collegamento.lnk",
+        "status": "ok"
+      },
+      {
+        "file": "xoa103_xoa103l_piante - collegamento.lnk",
+        "status": "ok"
       }
     ]
   },
