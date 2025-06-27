@@ -24718,54 +24718,46 @@
   },
   {
     "codice": "pa11",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/Attrezzi Dog/PA11 Salto nel cerchio",
+    "nome": "",
     "categoria": "AGILITY DOG",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "Pa11_3d_render.png"
+        "file": "Backup di Pa11_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "Pa11_tavola_prospect.layout"
+        "file": "PA11 salto nel cerchio_3d.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "Pa11_tavola_prospect.pdf"
+        "file": "Pa11_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "pa11_3d_sketchup.skp"
+        "file": "Pa11_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "pa11_pianta.dwg"
+        "file": "Pa11_montaggio.pdf",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "pa11_piante.dwg"
+        "file": "pa11_pianta.dwg",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "pa11_gomma.pdf"
+        "file": "Pa11_tavola_prospect.layout",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "pa11_scavi.pdf"
+        "file": "Pa11_tavola_prospect.pdf",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "pa11_sicurezza.pdf"
-      },
-      {
-        "status": "err",
-        "file": "pa11_sfuso.pdf"
-      },
-      {
-        "status": "ok",
-        "file": "Pa11_montaggio.pdf"
+        "file": "Thumbs.db",
+        "status": "err"
       }
     ]
   },
