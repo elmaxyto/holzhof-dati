@@ -19659,50 +19659,42 @@
   },
   {
     "codice": "xoxi202ra",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxi202ra",
+    "nome": "",
     "categoria": "OXI - ALLUMINIO",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "xoxi202ra_3d_render.png"
+        "file": "piante uguali a xm2020ra QUI.lnk",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xoxi202ra_tavola_prospect.pdf"
+        "file": "Thumbs.db",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xoxi202ra_3d_sketchup.skp"
+        "file": "xoxi202ra_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xoxi202ra_pianta.dwg"
+        "file": "xoxi202ra_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xoxi202ra_piante.dwg"
+        "file": "xoxi202ra_3d_sketchup.layout",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xoxi202ra_gomma.pdf"
+        "file": "xoxi202ra_3d_sketchup.skp",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xoxi202ra_scavi.pdf"
+        "file": "xoxi202ra_tavola_prospect.pdf",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xoxi202ra_sicurezza.pdf"
-      },
-      {
-        "status": "err",
-        "file": "xoxi202ra_sfuso.pdf"
-      },
-      {
-        "status": "err",
-        "file": "xoxi202ra_montaggio.pdf"
+        "file": "xoxira_3d_sketchup.skb",
+        "status": "err"
       }
     ]
   },
