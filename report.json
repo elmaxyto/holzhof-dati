@@ -20777,58 +20777,62 @@
   },
   {
     "codice": "xoa103l",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa103 L",
+    "nome": "",
     "categoria": "OASIS",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "xoa103l_3d_render.jpg"
+        "file": "Thumbs.db",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xoa103l_tavola_prospect.layout"
+        "file": "xoa103l_3d_render.jpg.bak",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xoa103l_tavola_prospect.pdf"
+        "file": "xoa103l_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xoa103l_3d_sketchup.skp"
+        "file": "xoa103l_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xoa103l_pianta.dwg"
+        "file": "xoa103l_3d_sketchup.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xoa103l_piante.dwg"
+        "file": "xoa103l_pianta.dwg",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xoa103l_piante_sito.dwg"
+        "file": "xoa103l_piante.dwg",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xoa103l_gomma.pdf"
+        "file": "xoa103l_piante_sito.dwg",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xoa103l_scavi.pdf"
+        "file": "xoa103l_scavi.pdf",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xoa103l_sicurezza.pdf"
+        "file": "xoa103l_sicurezza.pdf",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xoa103l_sfuso.pdf"
+        "file": "xoa103l_tavola_prospect.layout",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xoa103l_montaggio.pdf"
+        "file": "xoa103l_tavola_prospect.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xoa103_xoa103l_montaggio - OLD.lnk",
+        "status": "err"
       }
     ]
   },
