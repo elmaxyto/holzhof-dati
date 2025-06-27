@@ -19244,62 +19244,86 @@
   },
   {
     "codice": "xs301",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/COMPOSIZIONI/xs301",
+    "nome": "",
     "categoria": "MAX - SULTAN",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "xs301_3d_render.png"
+        "file": "Backup di xs301_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "xs301_tavola_prospect.layout"
+        "file": "curvo H168.JPG",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xs301_tavola_prospect.pdf"
+        "file": "Thumbs.db",
+        "status": "err"
       },
       {
-        "status": "warn",
-        "file": "xs301_xs301-ric_tavola_prospect.pdf"
+        "file": "xs301_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xs301_3d_sketchup.skp"
+        "file": "xs301_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xs301_pianta.dwg"
+        "file": "xs301_3d_sketchup.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xs301_piante.dwg"
+        "file": "xs301_3d_sketchup.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xs301_piante_sito.dwg"
+        "file": "xs301_3d_sketchup.zip",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xs301_gomma.pdf"
+        "file": "xs301_montaggio.pdf - collegamento.lnk",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xs301_scavi.pdf"
+        "file": "xs301_pianta.dwg",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xs301_sicurezza.pdf"
+        "file": "xs301_piante.dwg",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xs301_sfuso.pdf"
+        "file": "xs301_piante_sito.dwg",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xs301_montaggio.pdf"
+        "file": "xs301_scavi.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xs301_sicurezza.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xs301_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xs301_tavola_prospect.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xs301_xs301-ric_piante.bak",
+        "status": "ok"
+      },
+      {
+        "file": "xs301_xs301-ric_piante_platea.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xs301_xs301-ric_tavola_prospect.pdf",
+        "status": "ok"
       }
     ]
   },
