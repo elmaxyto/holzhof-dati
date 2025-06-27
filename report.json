@@ -13439,1202 +13439,1086 @@
   },
   {
     "codice": "xcal11",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcal(altalene legno)/XCAL11 SINGOLA/xcal11 tavoletta",
     "nome": "Tavoletta Singola",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcal(altalene legno)/XCAL11 SINGOLA/xcal11 tavoletta",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xcal11_3d_render.png"
       },
       {
-        "file": "xcal11t_3d_sketchup.skb",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11_tavola_prospect.layout"
       },
       {
-        "file": "xcal11_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xcal11_3d_sketchup.skp"
       },
       {
-        "file": "xcal11_3d_render.png.bak",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11_pianta.dwg"
       },
       {
-        "file": "xcal11_3d_sketchup.skb",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11_piante.dwg"
       },
       {
-        "file": "xcal11_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11_gomma.pdf"
       },
       {
-        "file": "xcal11_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11_scavi.pdf"
       },
       {
-        "file": "xcal11_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11_sicurezza.pdf"
       },
       {
-        "file": "xcal11_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11_sfuso.pdf"
       },
       {
-        "file": "xcal11_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xcal45",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcal(altalene legno)/XCAL45 bamboo",
     "nome": "Nido",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcal(altalene legno)/XCAL45 bamboo",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Backup di xcal45_tavola_prospect.layout",
-        "status": "warn"
+        "status": "ok",
+        "file": "xcal45_3d_render.png"
       },
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xcal45_tavola_prospect.layout"
       },
       {
-        "file": "xcal45_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xcal45_tavola_prospect.pdf"
       },
       {
-        "file": "xcal45_3d_render.png.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xcal45_3d_sketchup.skp"
       },
       {
-        "file": "xcal45_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xcal45_pianta.dwg"
       },
       {
-        "file": "xcal45_3d_sketchup.skp",
-        "status": "ok"
+        "status": "ok",
+        "file": "xcal45_piante.dwg"
       },
       {
-        "file": "xcal45_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal45_gomma.pdf"
       },
       {
-        "file": "xcal45_piante.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal45_scavi.pdf"
       },
       {
-        "file": "xcal45_scavi.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xcal45_sicurezza.pdf"
       },
       {
-        "file": "xcal45_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal45_sfuso.pdf"
       },
       {
-        "file": "xcal45_tavola_prospect.layout",
-        "status": "ok"
-      },
-      {
-        "file": "xcal45_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal45_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal15",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL15 ORSY",
     "nome": "Orsy",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL15 ORSY",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "altalena_singola_piante_sicurezza_scavi.bak",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal15_3d_render.png"
       },
       {
-        "file": "castel Trodica.dwg",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal15_tavola_prospect.layout"
       },
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal15_tavola_prospect.pdf"
       },
       {
-        "file": "xsal15_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal15_3d_sketchup.skp"
       },
       {
-        "file": "xsal15_3d_render.png.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal15_pianta.dwg"
       },
       {
-        "file": "xsal15_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal15_piante.dwg"
       },
       {
-        "file": "xsal15_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal15_gomma.pdf"
       },
       {
-        "file": "xsal15_pianta.dwg",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal15_scavi.pdf"
       },
       {
-        "file": "xsal15_piante.dwg",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal15_sicurezza.pdf"
       },
       {
-        "file": "xsal15_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal15_sfuso.pdf"
       },
       {
-        "file": "xsal15_sicurezza.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xsal15_tavola_prospect.layout",
-        "status": "ok"
-      },
-      {
-        "file": "xsal15_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal15_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal41b",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL BABY/xsal41b doppia",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL BABY/xsal41b doppia",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "altalena_baby_doppia_nido_piante_sicurezza_scavi.bak",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal41b_3d_render.png"
       },
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal41b_tavola_prospect.layout"
       },
       {
-        "file": "xsal41b_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal41b_tavola_prospect.pdf"
       },
       {
-        "file": "xsal41b_3d_render.png.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal41b_3d_sketchup.skp"
       },
       {
-        "file": "xsal41b_3d_sketchup.skp",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal41b_pianta.dwg"
       },
       {
-        "file": "xsal41b_pianta.dwg",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal41b_piante.dwg"
       },
       {
-        "file": "xsal41b_piante.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41b_gomma.pdf"
       },
       {
-        "file": "xsal41b_scavi.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal41b_scavi.pdf"
       },
       {
-        "file": "xsal41b_sicurezza.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal41b_sicurezza.pdf"
       },
       {
-        "file": "xsal41b_tavola_prospect.layout",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41b_sfuso.pdf"
       },
       {
-        "file": "xsal41b_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41b_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal41bgo",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL BABY/xsal41bgo",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL BABY/xsal41bgo",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "xsal41bgo_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal41bgo_3d_render.png"
       },
       {
-        "file": "xsal41bgo_3d_render.png.bak",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41bgo_tavola_prospect.layout"
       },
       {
-        "file": "xsal41bgo_3d_sketchup.skp",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal41bgo_3d_sketchup.skp"
+      },
+      {
+        "status": "err",
+        "file": "xsal41bgo_pianta.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xsal41bgo_piante.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xsal41bgo_gomma.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41bgo_scavi.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41bgo_sicurezza.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41bgo_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41bgo_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal41bto",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL BABY/xsal41bto",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL BABY/xsal41bto",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "xsal41bto_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal41bto_3d_render.png"
       },
       {
-        "file": "xsal41bto_3d_render.png.bak",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41bto_tavola_prospect.layout"
       },
       {
-        "file": "xsal41bto_3d_sketchup.skp",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal41bto_3d_sketchup.skp"
+      },
+      {
+        "status": "err",
+        "file": "xsal41bto_pianta.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xsal41bto_piante.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xsal41bto_gomma.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41bto_scavi.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41bto_sicurezza.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41bto_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41bto_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal41",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL41 DOPPIA/xsal41t tavoletta",
     "nome": "Doppia Tavoletta",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL41 DOPPIA/xsal41t tavoletta",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal41_3d_render.png"
       },
       {
-        "file": "xoxia_xsal_xcal_montaggio.pdf",
-        "status": "warn"
+        "status": "err",
+        "file": "xsal41_tavola_prospect.layout"
       },
       {
-        "file": "xsal41t_3d_render.png.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal41_3d_sketchup.skp"
       },
       {
-        "file": "xsal41t_3d_sketchup.skb",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41_pianta.dwg"
       },
       {
-        "file": "xsal41_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41_piante.dwg"
       },
       {
-        "file": "xsal41_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41_gomma.pdf"
       },
       {
-        "file": "xsal41_montaggio.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41_scavi.pdf"
       },
       {
-        "file": "xsal41_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41_sicurezza.pdf"
       },
       {
-        "file": "xsal41_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41_sfuso.pdf"
       },
       {
-        "file": "xsal41_sicurezza.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xsal41_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal41_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal45",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL45 bamboo",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL45 bamboo",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Audit report.txt",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal45_3d_render.png"
       },
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal45_3d_render.jpg"
       },
       {
-        "file": "xsal45_3d_render.jpg.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal45_tavola_prospect.layout"
       },
       {
-        "file": "xsal45_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal45_tavola_prospect.pdf"
       },
       {
-        "file": "xsal45_3d_render.png.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal45_3d_sketchup.skp"
       },
       {
-        "file": "xsal45_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal45_pianta.dwg"
       },
       {
-        "file": "xsal45_3d_sketchup.skp",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal45_piante.dwg"
       },
       {
-        "file": "xsal45_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal45_gomma.pdf"
       },
       {
-        "file": "xsal45_piante.dwg",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal45_scavi.pdf"
       },
       {
-        "file": "xsal45_scavi.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal45_sicurezza.pdf"
       },
       {
-        "file": "xsal45_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal45_sfuso.pdf"
       },
       {
-        "file": "xsal45_tavola_prospect.layout",
-        "status": "ok"
-      },
-      {
-        "file": "xsal45_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal45_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal62",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/Altalene in linea/Xsal62",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/Altalene in linea/Xsal62",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Backup di Xsal 62 tavola prospect.layout",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal62_3d_render.png"
       },
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "Xsal62_tavola_prospect.pdf"
       },
       {
-        "file": "Xsal 62 Sketchup -3d.skb",
-        "status": "err"
+        "status": "err",
+        "file": "xsal62_3d_sketchup.skp"
       },
       {
-        "file": "Xsal 62 Sketchup -3d.skp",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal62_pianta.dwg"
       },
       {
-        "file": "Xsal 62 tavola prospect.layout",
-        "status": "err"
+        "status": "err",
+        "file": "xsal62_piante.dwg"
       },
       {
-        "file": "Xsal 62_render.jpg",
-        "status": "err"
+        "status": "err",
+        "file": "xsal62_gomma.pdf"
       },
       {
-        "file": "xsal62_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal62_scavi.pdf"
       },
       {
-        "file": "xsal62_3d_render.png.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal62_sicurezza.pdf"
       },
       {
-        "file": "xsal62_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal62_sfuso.pdf"
       },
       {
-        "file": "xsal62_scavi.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xsal62_sicurezza.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "Xsal62_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal62_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal83",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/Altalene in linea/Xsal83",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/Altalene in linea/Xsal83",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Backup di Xsal 83 tavola prospect.layout",
-        "status": "err"
+        "status": "ok",
+        "file": "Xsal83_3d_render.png"
       },
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "warn",
+        "file": "Xsal83_tavola_prosepct.pdf"
       },
       {
-        "file": "Xsal 83 - Sketchup - 3d.skb",
-        "status": "err"
+        "status": "err",
+        "file": "xsal83_tavola_prospect.layout"
       },
       {
-        "file": "Xsal 83 - Sketchup - 3d.skp",
-        "status": "err"
+        "status": "err",
+        "file": "xsal83_3d_sketchup.skp"
       },
       {
-        "file": "Xsal 83 tavola prospect.layout",
-        "status": "err"
+        "status": "err",
+        "file": "xsal83_pianta.dwg"
       },
       {
-        "file": "Xsal83_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal83_piante.dwg"
       },
       {
-        "file": "Xsal83_3d_render.png.bak",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal83_gomma.pdf"
       },
       {
-        "file": "xsal83_scavi.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal83_scavi.pdf"
       },
       {
-        "file": "xsal83_sicurezza.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal83_sicurezza.pdf"
       },
       {
-        "file": "Xsal83_tavola_prosepct.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal83_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal83_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoa1",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa altalene/xoa1 altalena singola",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa altalene/xoa1 altalena singola",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "altalena singola oasis_completo con scavi_altalena singola.skb",
-        "status": "err"
+        "status": "ok",
+        "file": "xoa1_3d_render.jpg"
       },
       {
-        "file": "altalena singola oasis_completo con scavi_altalena singola.skp",
-        "status": "err"
+        "status": "ok",
+        "file": "xoa1_tavola_prospect.layout"
       },
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoa1_tavola_prospect.pdf"
       },
       {
-        "file": "xoa1_3d_render.jpg",
-        "status": "ok"
+        "status": "err",
+        "file": "xoa1_3d_sketchup.skp"
       },
       {
-        "file": "xoa1_3d_render.jpg.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa1_pianta.dwg"
       },
       {
-        "file": "xoa1_gomma.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa1_piante.dwg"
       },
       {
-        "file": "xoa1_pianta.dwg",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa1_gomma.pdf"
       },
       {
-        "file": "xoa1_piante.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa1_scavi.pdf"
       },
       {
-        "file": "xoa1_piante.dwg",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa1_sicurezza.pdf"
       },
       {
-        "file": "xoa1_scavi.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa1_sfuso.pdf"
       },
       {
-        "file": "xoa1_sfuso.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoa1_sicurezza.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoa1_tavola_prospect.layout",
-        "status": "ok"
-      },
-      {
-        "file": "xoa1_tavola_prospect.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoa_piante.bak",
-        "status": "err"
+        "status": "err",
+        "file": "xoa1_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoa15",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa altalene/xoa15 altalena singola",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa altalene/xoa15 altalena singola",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "altalena singola oasis_completo con scavi_altalena singola.skb",
-        "status": "err"
+        "status": "ok",
+        "file": "xoa15_3d_render.png"
       },
       {
-        "file": "Backup of xoa15_tavola_prospect.layout",
-        "status": "warn"
+        "status": "ok",
+        "file": "xoa15_tavola_prospect.layout"
       },
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoa15_tavola_prospect.pdf"
       },
       {
-        "file": "xoa15_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa15_3d_sketchup.skp"
       },
       {
-        "file": "xoa15_3d_render.png.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa15_pianta.dwg"
       },
       {
-        "file": "xoa15_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa15_piante.dwg"
       },
       {
-        "file": "xoa15_3d_sketchup.skp",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa15_gomma.pdf"
       },
       {
-        "file": "xoa15_gomma.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa15_scavi.pdf"
       },
       {
-        "file": "xoa15_pianta.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa15_sicurezza.pdf"
       },
       {
-        "file": "xoa15_pianta.dwg",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa15_sfuso.pdf"
       },
       {
-        "file": "xoa15_piante.bak",
-        "status": "ok"
-      },
-      {
-        "file": "xoa15_piante.dwg",
-        "status": "ok"
-      },
-      {
-        "file": "xoa15_scavi.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoa15_sfuso.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoa15_sicurezza.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoa15_tavola_prospect.layout",
-        "status": "ok"
-      },
-      {
-        "file": "xoa15_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoa15_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoa45",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa altalene/xoa45 nido",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa altalene/xoa45 nido",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Backup of xoa45_tavola_prospect.layout",
-        "status": "warn"
+        "status": "ok",
+        "file": "xoa45_3d_render.png"
       },
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoa45_tavola_prospect.layout"
       },
       {
-        "file": "xoa45_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa45_tavola_prospect.pdf"
       },
       {
-        "file": "xoa45_3d_render.png.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa45_3d_sketchup.skp"
       },
       {
-        "file": "xoa45_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa45_pianta.dwg"
       },
       {
-        "file": "xoa45_3d_sketchup.skp",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa45_piante.dwg"
       },
       {
-        "file": "xoa45_gomma.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa45_gomma.pdf"
       },
       {
-        "file": "xoa45_pianta.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa45_scavi.pdf"
       },
       {
-        "file": "xoa45_pianta.dwg",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa45_sicurezza.pdf"
       },
       {
-        "file": "xoa45_piante.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa45_sfuso.pdf"
       },
       {
-        "file": "xoa45_piante.dwg",
-        "status": "ok"
-      },
-      {
-        "file": "xoa45_scavi.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoa45_sfuso.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoa45_sicurezza.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoa45_tavola_prospect.layout",
-        "status": "ok"
-      },
-      {
-        "file": "xoa45_tavola_prospect.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoa45__piante.bak",
-        "status": "ok"
+        "status": "err",
+        "file": "xoa45_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoa56",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa altalene/Esalena e trilena/Xoa56_esalena",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa altalene/Esalena e trilena/Xoa56_esalena",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Backup of xoa56_tavola_prospect.layout",
-        "status": "warn"
+        "status": "ok",
+        "file": "xoa56_3d_render.png"
       },
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoa56_tavola_prospect.layout"
       },
       {
-        "file": "xoa56_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa56_tavola_prospect.pdf"
       },
       {
-        "file": "xoa56_3d_render.png.bak",
-        "status": "ok"
+        "status": "err",
+        "file": "xoa56_3d_sketchup.skp"
       },
       {
-        "file": "xoa56_esalena_pianta.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa56_pianta.dwg"
       },
       {
-        "file": "xoa56_esalena_piante.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa56_piante.dwg"
       },
       {
-        "file": "xoa56_gomma.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa56_gomma.pdf"
       },
       {
-        "file": "xoa56_pianta.dwg",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa56_scavi.pdf"
       },
       {
-        "file": "xoa56_piante.dwg",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa56_sicurezza.pdf"
       },
       {
-        "file": "xoa56_scavi.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa56_sfuso.pdf"
       },
       {
-        "file": "xoa56_sfuso.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoa56_sicurezza.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "Xoa56_SketchUp - Copia.skb",
-        "status": "ok"
-      },
-      {
-        "file": "Xoa56_SketchUp - Copia.skp",
-        "status": "ok"
-      },
-      {
-        "file": "Xoa56_SketchUp.skb",
-        "status": "ok"
-      },
-      {
-        "file": "Xoa56_SketchUp.skp",
-        "status": "ok"
-      },
-      {
-        "file": "xoa56_tavola_prospect.layout",
-        "status": "ok"
-      },
-      {
-        "file": "xoa56_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoa56_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoxia15",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXI15 ORSY",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXI15 ORSY",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Backup di xoxia15_tavola_prospect.layout",
-        "status": "warn"
+        "status": "ok",
+        "file": "xoxia15_3d_render.png"
       },
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoxia15_tavola_prospect.layout"
       },
       {
-        "file": "xoxia15_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia15_tavola_prospect.pdf"
       },
       {
-        "file": "xoxia15_3d_render.png.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia15_3d_sketchup.skp"
       },
       {
-        "file": "xoxia15_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia15_pianta.dwg"
       },
       {
-        "file": "xoxia15_3d_sketchup.skp",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia15_piante.dwg"
       },
       {
-        "file": "xoxia15_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia15_gomma.pdf"
       },
       {
-        "file": "xoxia15_piante.dwg",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia15_scavi.pdf"
       },
       {
-        "file": "xoxia15_scavi.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia15_sicurezza.pdf"
       },
       {
-        "file": "xoxia15_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia15_sfuso.pdf"
       },
       {
-        "file": "xoxia15_tavola_prospect.layout",
-        "status": "ok"
-      },
-      {
-        "file": "xoxia15_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia15_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoxia31",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA31 SINGOLA/xoxia31 tavoletta",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA31 SINGOLA/xoxia31 tavoletta",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoxia31_3d_render.png"
       },
       {
-        "file": "xoxia31t_3d_sketchup.skb",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31_tavola_prospect.layout"
       },
       {
-        "file": "xoxia31_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia31_3d_sketchup.skp"
       },
       {
-        "file": "xoxia31_3d_sketchup.skb",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31_pianta.dwg"
       },
       {
-        "file": "xoxia31_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31_piante.dwg"
       },
       {
-        "file": "xoxia31_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31_gomma.pdf"
       },
       {
-        "file": "xoxia31_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31_scavi.pdf"
       },
       {
-        "file": "xoxia31_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31_sicurezza.pdf"
       },
       {
-        "file": "xoxia31_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31_sfuso.pdf"
       },
       {
-        "file": "xsal31_3d_render.png.bak",
-        "status": "err"
+        "status": "err",
+        "file": "xoxia31_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoxia31p",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA31 SINGOLA/xoxia31p palmetta",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA31 SINGOLA/xoxia31p palmetta",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoxia31p_3d_render.png"
       },
       {
-        "file": "xoxi3131p_3d_sketchup.skb",
-        "status": "err"
+        "status": "err",
+        "file": "xoxia31p_tavola_prospect.layout"
       },
       {
-        "file": "xoxia31p_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia31p_3d_sketchup.skp"
       },
       {
-        "file": "xoxia31p_3d_render.png.bak",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31p_pianta.dwg"
       },
       {
-        "file": "xoxia31p_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31p_piante.dwg"
       },
       {
-        "file": "xoxia31p_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31p_gomma.pdf"
       },
       {
-        "file": "xoxia31p_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31p_scavi.pdf"
       },
       {
-        "file": "xoxia31p_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31p_sicurezza.pdf"
       },
       {
-        "file": "xoxia31p_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31p_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xoxia31p_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoxia41",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA41 DOPPIA/XOXIA41t",
     "nome": "Doppia Tavoletta",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA41 DOPPIA/XOXIA41t",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoxia41_3d_render.png"
       },
       {
-        "file": "xoxia41t_3d_render.png.bak",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41_tavola_prospect.layout"
       },
       {
-        "file": "xoxia41_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia41_3d_sketchup.skp"
       },
       {
-        "file": "xoxia41_3d_render.png.bak",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41_pianta.dwg"
       },
       {
-        "file": "xoxia41_3d_sketchup.skb",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41_piante.dwg"
       },
       {
-        "file": "xoxia41_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41_gomma.pdf"
       },
       {
-        "file": "xoxia41_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41_scavi.pdf"
       },
       {
-        "file": "xoxia41_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41_sicurezza.pdf"
       },
       {
-        "file": "xoxia41_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41_sfuso.pdf"
       },
       {
-        "file": "xoxia41_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoxia43",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA 43 bamboo",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA 43 bamboo",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "altalena_doppia_nido_piante_sicurezza_scavi.dwg.bak",
-        "status": "err"
+        "status": "ok",
+        "file": "xoxia43_3d_render.png"
       },
       {
-        "file": "altalena_doppia_nido_piante_sicurezza_scavi.dwg.original",
-        "status": "err"
+        "status": "ok",
+        "file": "xoxia43_tavola_prospect.layout"
       },
       {
-        "file": "Backup di xoxia43_tavola_prospect.layout",
-        "status": "warn"
+        "status": "ok",
+        "file": "xoxia43_tavola_prospect.pdf"
       },
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoxia43_3d_sketchup.skp"
       },
       {
-        "file": "xoxia43_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia43_pianta.dwg"
       },
       {
-        "file": "xoxia43_3d_render.png.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia43_piante.dwg"
       },
       {
-        "file": "xoxia43_3d_sketchup.skb",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia43_gomma.pdf"
       },
       {
-        "file": "xoxia43_3d_sketchup.skp",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia43_scavi.pdf"
       },
       {
-        "file": "xoxia43_pianta.dwg",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia43_sicurezza.pdf"
       },
       {
-        "file": "xoxia43_piante.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia43_sfuso.pdf"
       },
       {
-        "file": "xoxia43_scavi.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoxia43_sicurezza.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoxia43_tavola_prospect.layout",
-        "status": "ok"
-      },
-      {
-        "file": "xoxia43_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia43_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoxia62",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/Altalene in linea DA SISTEMARE/Xoxia 62",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/Altalene in linea DA SISTEMARE/Xoxia 62",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Backup of xoxia62_tavola_prospect.layout",
-        "status": "warn"
+        "status": "ok",
+        "file": "Xoxia62_3d_render.png"
       },
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoxia62_tavola_prospect.layout"
       },
       {
-        "file": "Xoxia62 Sketchup -3d.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia62_tavola_prospect.pdf"
       },
       {
-        "file": "Xoxia62 Sketchup -3d.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia62_3d_sketchup.skp"
       },
       {
-        "file": "Xoxia62 Sketchup_render.jpg",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia62_pianta.dwg"
       },
       {
-        "file": "Xoxia62_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia62_piante.dwg"
       },
       {
-        "file": "Xoxia62_3d_render.png.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia62_gomma.pdf"
       },
       {
-        "file": "xoxia62_gomma.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia62_scavi.pdf"
       },
       {
-        "file": "Xoxia62_gtn.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia62_sicurezza.pdf"
       },
       {
-        "file": "xoxia62_pianta.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia62_sfuso.pdf"
       },
       {
-        "file": "xoxia62_pianta.dwg",
-        "status": "ok"
-      },
-      {
-        "file": "xoxia62_piante.bak",
-        "status": "ok"
-      },
-      {
-        "file": "xoxia62_piante.dwg",
-        "status": "ok"
-      },
-      {
-        "file": "xoxia62_scavi.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoxia62_sfuso.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoxia62_sicurezza.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoxia62_tavola_prospect.layout",
-        "status": "ok"
-      },
-      {
-        "file": "xoxia62_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia62_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoxia83",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/Altalene in linea DA SISTEMARE/Xoxia 83",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/Altalene in linea DA SISTEMARE/Xoxia 83",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoxia83_3d_render.png"
       },
       {
-        "file": "Xoxia 83 - Sketchup - 3d solo tavolette.skp",
-        "status": "err"
+        "status": "ok",
+        "file": "Xoxia83_tavola_prospect.layout"
       },
       {
-        "file": "Xoxia 83 - Sketchup - 3d.skb",
-        "status": "err"
+        "status": "ok",
+        "file": "Xoxia83_tavola_prospect.pdf"
       },
       {
-        "file": "Xoxia 83 - Sketchup - 3d.skp",
-        "status": "err"
+        "status": "err",
+        "file": "xoxia83_3d_sketchup.skp"
       },
       {
-        "file": "Xoxia 83 - Sketchup_render.jpg",
-        "status": "err"
+        "status": "err",
+        "file": "xoxia83_pianta.dwg"
       },
       {
-        "file": "Xoxia 83_piante.bak",
-        "status": "err"
+        "status": "ok",
+        "file": "xoxia83_piante.dwg"
       },
       {
-        "file": "xoxia83_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia83_gomma.pdf"
       },
       {
-        "file": "xoxia83_3d_render.png.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia83_scavi.pdf"
       },
       {
-        "file": "xoxia83_gomma.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia83_sicurezza.pdf"
       },
       {
-        "file": "xoxia83_piante.dwg",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia83_sfuso.pdf"
       },
       {
-        "file": "xoxia83_scavi.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoxia83_sfuso.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoxia83_sicurezza.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "Xoxia83_tavola_prospect.layout",
-        "status": "ok"
-      },
-      {
-        "file": "Xoxia83_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia83_montaggio.pdf"
       }
     ]
   },
@@ -21250,977 +21134,1177 @@
   },
   {
     "codice": "xcal11-g",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcal(altalene legno)/XCAL11 SINGOLA/xcal11g gabbia",
     "nome": "Gabbietta Singola",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcal(altalene legno)/XCAL11 SINGOLA/xcal11g gabbia",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xcal11-g_3d_render.png"
       },
       {
-        "file": "xcal11-g_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11-g_tavola_prospect.layout"
       },
       {
-        "file": "xcal11-g_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xcal11-g_3d_sketchup.skp"
       },
       {
-        "file": "xcal11-g_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11-g_pianta.dwg"
       },
       {
-        "file": "xcal11-g_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11-g_piante.dwg"
       },
       {
-        "file": "xcal11-g_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11-g_gomma.pdf"
       },
       {
-        "file": "xcal11-g_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11-g_scavi.pdf"
       },
       {
-        "file": "xcal11-g_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11-g_sicurezza.pdf"
       },
       {
-        "file": "xcal11g_3d_render.png.bak",
-        "status": "err"
+        "status": "err",
+        "file": "xcal11-g_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xcal11-g_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xcal11-p",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcal(altalene legno)/XCAL11 SINGOLA/xcal11p palmetta",
     "nome": "Palemtta Singola",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcal(altalene legno)/XCAL11 SINGOLA/xcal11p palmetta",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xcal11-p_3d_render.png"
       },
       {
-        "file": "xcal11-p_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11-p_tavola_prospect.layout"
       },
       {
-        "file": "xcal11-p_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xcal11-p_3d_sketchup.skp"
       },
       {
-        "file": "xcal11-p_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11-p_pianta.dwg"
       },
       {
-        "file": "xcal11-p_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11-p_piante.dwg"
       },
       {
-        "file": "xcal11-p_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11-p_gomma.pdf"
       },
       {
-        "file": "xcal11-p_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11-p_scavi.pdf"
       },
       {
-        "file": "xcal11-p_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal11-p_sicurezza.pdf"
       },
       {
-        "file": "xcal11p_3d_render.png.bak",
-        "status": "err"
+        "status": "err",
+        "file": "xcal11-p_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xcal11-p_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xcal21-g",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcal(altalene legno)/XCAL21 DOPPIA/xcal21g gabbia",
     "nome": "Doppia Gabbia",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcal(altalene legno)/XCAL21 DOPPIA/xcal21g gabbia",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xcal21-g_3d_render.png"
       },
       {
-        "file": "xcal21-g_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21-g_tavola_prospect.layout"
       },
       {
-        "file": "xcal21-g_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xcal21-g_3d_sketchup.skp"
       },
       {
-        "file": "xcal21-g_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21-g_pianta.dwg"
       },
       {
-        "file": "xcal21-g_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21-g_piante.dwg"
       },
       {
-        "file": "xcal21-g_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21-g_gomma.pdf"
       },
       {
-        "file": "xcal21-g_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21-g_scavi.pdf"
       },
       {
-        "file": "xcal21-g_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21-g_sicurezza.pdf"
       },
       {
-        "file": "xcal21g_3d_render.png.bak",
-        "status": "err"
+        "status": "err",
+        "file": "xcal21-g_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xcal21-g_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xcal21-p",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcal(altalene legno)/XCAL21 DOPPIA/xcal21p palmetta",
     "nome": "Doppia Palmetta",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcal(altalene legno)/XCAL21 DOPPIA/xcal21p palmetta",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xcal21-p_3d_render.png"
       },
       {
-        "file": "xcal21-p_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21-p_tavola_prospect.layout"
       },
       {
-        "file": "xcal21-p_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xcal21-p_3d_sketchup.skp"
       },
       {
-        "file": "xcal21-p_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21-p_pianta.dwg"
       },
       {
-        "file": "xcal21-p_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21-p_piante.dwg"
       },
       {
-        "file": "xcal21-p_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21-p_gomma.pdf"
       },
       {
-        "file": "xcal21-p_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21-p_scavi.pdf"
       },
       {
-        "file": "xcal21-p_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21-p_sicurezza.pdf"
       },
       {
-        "file": "xcal21p_3d_render.png.bak",
-        "status": "err"
+        "status": "err",
+        "file": "xcal21-p_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xcal21-p_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xcal21-tg",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcal(altalene legno)/XCAL21 DOPPIA/xcal21tg gabbia+tavoletta",
     "nome": "Tavoletta + Gabbia",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcal(altalene legno)/XCAL21 DOPPIA/xcal21tg gabbia+tavoletta",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xcal21-tg_3d_render.png"
       },
       {
-        "file": "xcal21-tg_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21-tg_tavola_prospect.layout"
       },
       {
-        "file": "xcal21-tg_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xcal21-tg_3d_sketchup.skp"
       },
       {
-        "file": "xcal21-tg_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21-tg_pianta.dwg"
       },
       {
-        "file": "xcal21-tg_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21-tg_piante.dwg"
       },
       {
-        "file": "xcal21-tg_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21-tg_gomma.pdf"
       },
       {
-        "file": "xcal21-tg_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21-tg_scavi.pdf"
       },
       {
-        "file": "xcal21-tg_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21-tg_sicurezza.pdf"
       },
       {
-        "file": "xcal21tg_3d_render.png.bak",
-        "status": "err"
+        "status": "err",
+        "file": "xcal21-tg_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xcal21-tg_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal31b-p",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL BABY/xsal31bp",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL BABY/xsal31bp",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "xsal31b-p_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal31b-p_3d_render.png"
+      },
+      {
+        "status": "err",
+        "file": "xsal31b-p_tavola_prospect.layout"
+      },
+      {
+        "status": "err",
+        "file": "xsal31b-p_3d_sketchup.skp"
+      },
+      {
+        "status": "err",
+        "file": "xsal31b-p_pianta.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xsal31b-p_piante.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xsal31b-p_gomma.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal31b-p_scavi.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal31b-p_sicurezza.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal31b-p_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal31b-p_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal31-g",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL31 SINGOLA/xsal31g gabbia",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL31 SINGOLA/xsal31g gabbia",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal31-g_3d_render.png"
       },
       {
-        "file": "xsal31-g_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31-g_tavola_prospect.layout"
       },
       {
-        "file": "xsal31-g_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal31-g_3d_sketchup.skp"
       },
       {
-        "file": "xsal31-g_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31-g_pianta.dwg"
       },
       {
-        "file": "xsal31-g_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31-g_piante.dwg"
       },
       {
-        "file": "xsal31-g_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31-g_gomma.pdf"
       },
       {
-        "file": "xsal31-g_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31-g_scavi.pdf"
       },
       {
-        "file": "xsal31-g_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31-g_sicurezza.pdf"
       },
       {
-        "file": "xsal31g_3d_render.png.bak",
-        "status": "err"
+        "status": "err",
+        "file": "xsal31-g_sfuso.pdf"
       },
       {
-        "file": "xsal31g_3d_sketchup.skb",
-        "status": "err"
+        "status": "err",
+        "file": "xsal31-g_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal31-p",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL31 SINGOLA/xsal31p palmetta",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL31 SINGOLA/xsal31p palmetta",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal31-p_3d_render.png"
       },
       {
-        "file": "xsal31-p_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31-p_tavola_prospect.layout"
       },
       {
-        "file": "xsal31-p_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal31-p_3d_sketchup.skp"
       },
       {
-        "file": "xsal31-p_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31-p_pianta.dwg"
       },
       {
-        "file": "xsal31-p_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31-p_piante.dwg"
       },
       {
-        "file": "xsal31-p_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31-p_gomma.pdf"
       },
       {
-        "file": "xsal31-p_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31-p_scavi.pdf"
       },
       {
-        "file": "xsal31-p_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31-p_sicurezza.pdf"
       },
       {
-        "file": "xsal31p_3d_render.png.bak",
-        "status": "err"
+        "status": "err",
+        "file": "xsal31-p_sfuso.pdf"
       },
       {
-        "file": "xsal31p_3d_sketchup.skb",
-        "status": "err"
+        "status": "err",
+        "file": "xsal31-p_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal41b-g",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL BABY/xsal41bg",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL BABY/xsal41bg",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "xsal41b-g_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal41b-g_3d_render.png"
       },
       {
-        "file": "xsal41b-g_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41b-g_tavola_prospect.layout"
       },
       {
-        "file": "xsal41bg_3d_render.png.bak",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal41b-g_3d_sketchup.skp"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-g_pianta.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-g_piante.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-g_gomma.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-g_scavi.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-g_sicurezza.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-g_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-g_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal41b-p",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL BABY/xsal41bp",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL BABY/xsal41bp",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal41b-p_3d_render.png"
       },
       {
-        "file": "xsal41b-p_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41b-p_tavola_prospect.layout"
       },
       {
-        "file": "xsal41bp_3d_render.png.bak",
-        "status": "err"
+        "status": "err",
+        "file": "xsal41b-p_3d_sketchup.skp"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-p_pianta.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-p_piante.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-p_gomma.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-p_scavi.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-p_sicurezza.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-p_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-p_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal41-go",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL41 DOPPIA/xsal41go gabbia+orsetto",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL41 DOPPIA/xsal41go gabbia+orsetto",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal41-go_3d_render.png"
       },
       {
-        "file": "xsal41-go_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-go_tavola_prospect.layout"
       },
       {
-        "file": "xsal41-go_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal41-go_3d_sketchup.skp"
       },
       {
-        "file": "xsal41-go_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-go_pianta.dwg"
       },
       {
-        "file": "xsal41-go_montaggio.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-go_piante.dwg"
       },
       {
-        "file": "xsal41-go_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-go_gomma.pdf"
       },
       {
-        "file": "xsal41-go_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-go_scavi.pdf"
       },
       {
-        "file": "xsal41-go_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-go_sicurezza.pdf"
       },
       {
-        "file": "xsal41-go_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-go_sfuso.pdf"
       },
       {
-        "file": "xsal41go_3d_sketchup.skb",
-        "status": "err"
+        "status": "err",
+        "file": "xsal41-go_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal41-p",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL41 DOPPIA/xsal41p palmetta",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL41 DOPPIA/xsal41p palmetta",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal41-p_3d_render.png"
       },
       {
-        "file": "xsal41-p_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-p_tavola_prospect.layout"
       },
       {
-        "file": "xsal41-p_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal41-p_3d_sketchup.skp"
       },
       {
-        "file": "xsal41-p_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-p_pianta.dwg"
       },
       {
-        "file": "xsal41-p_montaggio.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-p_piante.dwg"
       },
       {
-        "file": "xsal41-p_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-p_gomma.pdf"
       },
       {
-        "file": "xsal41-p_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-p_scavi.pdf"
       },
       {
-        "file": "xsal41-p_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-p_sicurezza.pdf"
       },
       {
-        "file": "xsal41-p_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-p_sfuso.pdf"
       },
       {
-        "file": "xsal41p_3d_render.png.bak",
-        "status": "err"
-      },
-      {
-        "file": "xsal41p_3d_sketchup2.skb",
-        "status": "err"
+        "status": "err",
+        "file": "xsal41-p_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal41b-tg",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL BABY/xsal41btg",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL BABY/xsal41btg",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal41b-tg_3d_render.png"
       },
       {
-        "file": "xsal41b-tg_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41b-tg_tavola_prospect.layout"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-tg_3d_sketchup.skp"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-tg_pianta.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-tg_piante.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-tg_gomma.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-tg_scavi.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-tg_sicurezza.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-tg_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal41b-tg_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal41-tg",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL41 DOPPIA/xsal41tg tavoletta+gabbia",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL41 DOPPIA/xsal41tg tavoletta+gabbia",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal41-tg_3d_render.png"
       },
       {
-        "file": "xsal41-tg_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-tg_tavola_prospect.layout"
       },
       {
-        "file": "xsal41-tg_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal41-tg_3d_sketchup.skp"
       },
       {
-        "file": "xsal41-tg_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-tg_pianta.dwg"
       },
       {
-        "file": "xsal41-tg_montaggio.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-tg_piante.dwg"
       },
       {
-        "file": "xsal41-tg_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-tg_gomma.pdf"
       },
       {
-        "file": "xsal41-tg_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-tg_scavi.pdf"
       },
       {
-        "file": "xsal41-tg_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-tg_sicurezza.pdf"
       },
       {
-        "file": "xsal41-tg_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-tg_sfuso.pdf"
       },
       {
-        "file": "xsal41tg_3d_render.png.bak",
-        "status": "err"
-      },
-      {
-        "file": "xsal41tg_3d_sketchup.skb",
-        "status": "err"
+        "status": "err",
+        "file": "xsal41-tg_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal41-to",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL41 DOPPIA/xsal41to tavoletta+orsetto",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL41 DOPPIA/xsal41to tavoletta+orsetto",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal41-to_3d_render.png"
       },
       {
-        "file": "xsal41-to_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-to_tavola_prospect.layout"
       },
       {
-        "file": "xsal41-to_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal41-to_3d_sketchup.skp"
       },
       {
-        "file": "xsal41-to_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-to_pianta.dwg"
       },
       {
-        "file": "xsal41-to_montaggio.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-to_piante.dwg"
       },
       {
-        "file": "xsal41-to_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-to_gomma.pdf"
       },
       {
-        "file": "xsal41-to_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-to_scavi.pdf"
       },
       {
-        "file": "xsal41-to_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-to_sicurezza.pdf"
       },
       {
-        "file": "xsal41-to_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-to_sfuso.pdf"
       },
       {
-        "file": "xsal41to_3d_render.png.bak",
-        "status": "err"
-      },
-      {
-        "file": "xsal41to_3d_sketchup.skb",
-        "status": "err"
+        "status": "err",
+        "file": "xsal41-to_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoa1-g",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa altalene/xoa1g gabbietta singola",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa altalene/xoa1g gabbietta singola",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "xoa1-g_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa1-g_3d_render.png"
+      },
+      {
+        "status": "err",
+        "file": "xoa1-g_tavola_prospect.layout"
+      },
+      {
+        "status": "err",
+        "file": "xoa1-g_3d_sketchup.skp"
+      },
+      {
+        "status": "err",
+        "file": "xoa1-g_pianta.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xoa1-g_piante.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xoa1-g_gomma.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xoa1-g_scavi.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xoa1-g_sicurezza.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xoa1-g_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xoa1-g_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoa1-p",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa altalene/xoa1p palmetta singola",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa altalene/xoa1p palmetta singola",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoa1-p_3d_render.png"
       },
       {
-        "file": "xoa1-p_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xoa1-p_tavola_prospect.layout"
+      },
+      {
+        "status": "err",
+        "file": "xoa1-p_3d_sketchup.skp"
+      },
+      {
+        "status": "err",
+        "file": "xoa1-p_pianta.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xoa1-p_piante.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xoa1-p_gomma.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xoa1-p_scavi.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xoa1-p_sicurezza.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xoa1-p_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xoa1-p_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoa4",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa altalene/xoa4 doppia/xoa4t tavoletta",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa altalene/xoa4 doppia/xoa4t tavoletta",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoa4_3d_render.png"
       },
       {
-        "file": "xoa4t_3d_render.jpg.bak",
-        "status": "ok"
+        "status": "err",
+        "file": "xoa4_tavola_prospect.layout"
       },
       {
-        "file": "xoa4t_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa4_3d_sketchup.skp"
       },
       {
-        "file": "xoa4_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xoa4_pianta.dwg"
       },
       {
-        "file": "xoa4_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xoa4_piante.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xoa4_gomma.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xoa4_scavi.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xoa4_sicurezza.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xoa4_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xoa4_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoxia31-g",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA31 SINGOLA/xoxia31g gabbia",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA31 SINGOLA/xoxia31g gabbia",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoxia31-g_3d_render.jpg"
       },
       {
-        "file": "xoxia31-g_3d_render.jpg",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31-g_tavola_prospect.layout"
       },
       {
-        "file": "xoxia31-g_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia31-g_3d_sketchup.skp"
       },
       {
-        "file": "xoxia31-g_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31-g_pianta.dwg"
       },
       {
-        "file": "xoxia31-g_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31-g_piante.dwg"
       },
       {
-        "file": "xoxia31-g_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31-g_gomma.pdf"
       },
       {
-        "file": "xoxia31-g_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31-g_scavi.pdf"
       },
       {
-        "file": "xoxia31-g_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia31-g_sicurezza.pdf"
       },
       {
-        "file": "xoxia31g_3d_render.jpg.bak",
-        "status": "err"
+        "status": "err",
+        "file": "xoxia31-g_sfuso.pdf"
       },
       {
-        "file": "xoxia31g_3d_sketchup.skb",
-        "status": "err"
+        "status": "err",
+        "file": "xoxia31-g_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal41-g",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL41 DOPPIA/xsal41g gabbia",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL41 DOPPIA/xsal41g gabbia",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal41-g_3d_render.png"
       },
       {
-        "file": "xsal41-g_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-g_tavola_prospect.layout"
       },
       {
-        "file": "xsal41-g_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal41-g_3d_sketchup.skp"
       },
       {
-        "file": "xsal41-g_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-g_pianta.dwg"
       },
       {
-        "file": "xsal41-g_montaggio.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-g_piante.dwg"
       },
       {
-        "file": "xsal41-g_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-g_gomma.pdf"
       },
       {
-        "file": "xsal41-g_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-g_scavi.pdf"
       },
       {
-        "file": "xsal41-g_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-g_sicurezza.pdf"
       },
       {
-        "file": "xsal41-g_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal41-g_sfuso.pdf"
       },
       {
-        "file": "xsal41g_3d_render.png.bak",
-        "status": "err"
-      },
-      {
-        "file": "xsal41g_3d_sketchup.skb",
-        "status": "err"
+        "status": "err",
+        "file": "xsal41-g_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoxia41-go",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA41 DOPPIA/xoxia41go",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA41 DOPPIA/xoxia41go",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoxia41-go_3d_render.png"
       },
       {
-        "file": "xoxia41-go_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-go_tavola_prospect.layout"
       },
       {
-        "file": "xoxia41-go_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia41-go_3d_sketchup.skp"
       },
       {
-        "file": "xoxia41-go_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-go_pianta.dwg"
       },
       {
-        "file": "xoxia41-go_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-go_piante.dwg"
       },
       {
-        "file": "xoxia41-go_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-go_gomma.pdf"
       },
       {
-        "file": "xoxia41-go_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-go_scavi.pdf"
       },
       {
-        "file": "xoxia41-go_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-go_sicurezza.pdf"
       },
       {
-        "file": "xoxia41go_3d_render.png.bak",
-        "status": "err"
+        "status": "err",
+        "file": "xoxia41-go_sfuso.pdf"
       },
       {
-        "file": "xoxia41go_3d_sketchup.skb",
-        "status": "err"
+        "status": "err",
+        "file": "xoxia41-go_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoxia41-p",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA41 DOPPIA/XOXIA41p",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA41 DOPPIA/XOXIA41p",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoxia41-p_3d_render.png"
       },
       {
-        "file": "xoxia41-p_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-p_tavola_prospect.layout"
       },
       {
-        "file": "xoxia41-p_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia41-p_3d_sketchup.skp"
       },
       {
-        "file": "xoxia41-p_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-p_pianta.dwg"
       },
       {
-        "file": "xoxia41-p_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-p_piante.dwg"
       },
       {
-        "file": "xoxia41-p_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-p_gomma.pdf"
       },
       {
-        "file": "xoxia41-p_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-p_scavi.pdf"
       },
       {
-        "file": "xoxia41-p_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-p_sicurezza.pdf"
       },
       {
-        "file": "xoxia41p_3d_render.png.bak",
-        "status": "err"
+        "status": "err",
+        "file": "xoxia41-p_sfuso.pdf"
       },
       {
-        "file": "xoxia41p_3d_sketchup.skb",
-        "status": "err"
-      },
-      {
-        "file": "xoxia41tp_3d_render.png",
-        "status": "warn"
-      },
-      {
-        "file": "xoxia41tp_3d_sketchup.skb",
-        "status": "err"
-      },
-      {
-        "file": "xoxia41tp_3d_sketchup.skp",
-        "status": "warn"
+        "status": "err",
+        "file": "xoxia41-p_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoxia41-tg",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA41 DOPPIA/XOXIA41tg",
     "nome": "Tavoletta + Gabbia",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA41 DOPPIA/XOXIA41tg",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoxia41-tg_3d_render.png"
       },
       {
-        "file": "xoxia41-tg_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-tg_tavola_prospect.layout"
       },
       {
-        "file": "xoxia41-tg_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia41-tg_3d_sketchup.skp"
       },
       {
-        "file": "xoxia41-tg_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-tg_pianta.dwg"
       },
       {
-        "file": "xoxia41-tg_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-tg_piante.dwg"
       },
       {
-        "file": "xoxia41-tg_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-tg_gomma.pdf"
       },
       {
-        "file": "xoxia41-tg_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-tg_scavi.pdf"
       },
       {
-        "file": "xoxia41-tg_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-tg_sicurezza.pdf"
       },
       {
-        "file": "xoxia41tg_3D_render.png.bak",
-        "status": "err"
+        "status": "err",
+        "file": "xoxia41-tg_sfuso.pdf"
       },
       {
-        "file": "xoxia41tg_3D_sketchup.skb",
-        "status": "err"
+        "status": "err",
+        "file": "xoxia41-tg_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoxia41-to",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA41 DOPPIA/xoxia41to",
     "nome": "Tavoletta + Orsetto",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA41 DOPPIA/xoxia41to",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Audit report.txt",
-        "status": "err"
+        "status": "ok",
+        "file": "xoxia41-to_3d_render.png"
       },
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "err",
+        "file": "xoxia41-to_tavola_prospect.layout"
       },
       {
-        "file": "xoxia41-to_3d_render.png",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia41-to_3d_sketchup.skp"
       },
       {
-        "file": "xoxia41-to_3d_sketchup.skb",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-to_pianta.dwg"
       },
       {
-        "file": "xoxia41-to_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-to_piante.dwg"
       },
       {
-        "file": "xoxia41-to_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-to_gomma.pdf"
       },
       {
-        "file": "xoxia41-to_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-to_scavi.pdf"
       },
       {
-        "file": "xoxia41-to_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-to_sicurezza.pdf"
       },
       {
-        "file": "xoxia41-to_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-to_sfuso.pdf"
       },
       {
-        "file": "xoxia41to_3d_render.png.bak",
-        "status": "err"
-      },
-      {
-        "file": "xoxia41to_3d_sketchup.skb",
-        "status": "err"
+        "status": "err",
+        "file": "xoxia41-to_montaggio.pdf"
       }
     ]
   },
@@ -25072,58 +25156,54 @@
   },
   {
     "codice": "pa22",
-    "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/Attrezzi Dog/PA22 Arrampicata-Palizzata",
+    "nome": "",
     "categoria": "AGILITY DOG",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "pa22_3d_render.png"
+        "file": "Audit report.txt",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "pa22_tavola_prospect.layout"
+        "file": "Backup di PA22Palizzata_tavola_prospect.layout",
+        "status": "warn"
       },
       {
-        "status": "ok",
-        "file": "pa22_tavola_prospect.pdf"
+        "file": "PA22Palizzata_tavola_prospect.layout",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "pa22_pianta.dwg"
+        "file": "pa22_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "pa22_piante.dwg"
+        "file": "pa22_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "pa22_gomma.pdf"
+        "file": "pa22_3d_sketchup.skp",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "pa22_scavi.pdf"
+        "file": "pa22_montaggio.pdf",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "pa22_sicurezza.pdf"
+        "file": "pa22_pianta.dwg",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "pa22_sfuso.pdf"
+        "file": "pa22_tavola_prospect.layout",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "pa22_montaggio.pdf"
+        "file": "pa22_tavola_prospect.pdf",
+        "status": "ok"
       },
       {
-        "status": "warn",
-        "file": "PA22Palizzata_tavola_prospect.layout"
-      },
-      {
-        "status": "ok",
-        "file": "pa22_3d_sketchup.skp"
+        "file": "Thumbs.db",
+        "status": "err"
       }
     ]
   },
@@ -33739,91 +33819,99 @@
   },
   {
     "codice": "xcal21",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcal(altalene legno)/XCAL21 DOPPIA/xcal21t tavoletta",
     "nome": "Doppia Tavoletta",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcal(altalene legno)/XCAL21 DOPPIA/xcal21t tavoletta",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "altanena_doppia_nido_scavi - Copia.pdf",
-        "status": "warn"
+        "status": "err",
+        "file": "xcal21t_3d_render.png"
       },
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "err",
+        "file": "xcal21t_tavola_prospect.layout"
       },
       {
-        "file": "xcal21t_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xcal21t_3d_sketchup.skp"
       },
       {
-        "file": "xcal21_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21t_pianta.dwg"
       },
       {
-        "file": "xcal21_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21t_piante.dwg"
       },
       {
-        "file": "xcal21_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21t_gomma.pdf"
       },
       {
-        "file": "xcal21_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21t_scavi.pdf"
       },
       {
-        "file": "xcal21_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21t_sicurezza.pdf"
       },
       {
-        "file": "xcal21_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xcal21t_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xcal21t_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal31",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL31 SINGOLA/xsal31t tavoletta",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL31 SINGOLA/xsal31t tavoletta",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal31t_3d_render.jpg"
       },
       {
-        "file": "xsal31t_3d_render.jpg.bak",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31t_tavola_prospect.layout"
       },
       {
-        "file": "xsal31t_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal31t_3d_sketchup.skp"
       },
       {
-        "file": "xsal31_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31t_pianta.dwg"
       },
       {
-        "file": "xsal31_3d_sketchup.skp",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31t_piante.dwg"
       },
       {
-        "file": "xsal31_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31t_gomma.pdf"
       },
       {
-        "file": "xsal31_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31t_scavi.pdf"
       },
       {
-        "file": "xsal31_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31t_sicurezza.pdf"
       },
       {
-        "file": "xsal31_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31t_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal31t_montaggio.pdf"
       }
     ]
   },
@@ -34328,67 +34416,103 @@
   },
   {
     "codice": "xsal31b",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL BABY/xsal31b singola",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL BABY/xsal31b singola",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal31b_3d_render.jpg"
       },
       {
-        "file": "xsal31b-g_3d_sketchup.dwg",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal31b_tavola_prospect.layout"
       },
       {
-        "file": "xsal31b-g_3d_sketchup.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal31b_tavola_prospect.pdf"
       },
       {
-        "file": "xsal31b_3d_render.jpg.bak",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal31b_3d_sketchup.skp"
       },
       {
-        "file": "xsal31b_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31b_pianta.dwg"
       },
       {
-        "file": "xsal31b_3d_sketchup.skp",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal31b_piante.dwg"
       },
       {
-        "file": "xsal31b_piante.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31b_gomma.pdf"
       },
       {
-        "file": "xsal31b_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31b_scavi.pdf"
       },
       {
-        "file": "xsal31b_tavola_prospect.layout",
-        "status": "ok"
+        "status": "ok",
+        "file": "xsal31b_sicurezza.pdf"
       },
       {
-        "file": "xsal31b_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31b_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal31b_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xsal31b-g",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL BABY/xsal31bg",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XS Sultan/xsal altalene/XSAL BABY/xsal31bg",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xsal31b-g_3d_render.png"
       },
       {
-        "file": "xsal31b-g_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xsal31b-g_tavola_prospect.layout"
+      },
+      {
+        "status": "err",
+        "file": "xsal31b-g_3d_sketchup.skp"
+      },
+      {
+        "status": "err",
+        "file": "xsal31b-g_pianta.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xsal31b-g_piante.dwg"
+      },
+      {
+        "status": "err",
+        "file": "xsal31b-g_gomma.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal31b-g_scavi.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal31b-g_sicurezza.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal31b-g_sfuso.pdf"
+      },
+      {
+        "status": "err",
+        "file": "xsal31b-g_montaggio.pdf"
       }
     ]
   },
@@ -36078,131 +36202,99 @@
   },
   {
     "codice": "xoa53",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa altalene/Esalena e trilena/Xoa53_trilena",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOA Oasis/xoa altalene/Esalena e trilena/Xoa53_trilena",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Backup of xoa53_trilena_tavola_prospect.layout",
-        "status": "warn"
+        "status": "ok",
+        "file": "Xoa53_3d_render.jpg"
       },
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoa53_tavola_prospect.pdf"
       },
       {
-        "file": "Xoa53_3d_render.jpg.bak",
-        "status": "ok"
+        "status": "err",
+        "file": "xoa53_3d_sketchup.skp"
       },
       {
-        "file": "xoa53_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xoa53_pianta.dwg"
       },
       {
-        "file": "xoa53_gomma.pdf",
-        "status": "ok"
+        "status": "warn",
+        "file": "xoa53_trilena_piante.dwg"
       },
       {
-        "file": "xoa53_scavi.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa53_gomma.pdf"
       },
       {
-        "file": "xoa53_sfuso.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa53_scavi.pdf"
       },
       {
-        "file": "xoa53_sicurezza.pdf",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa53_sicurezza.pdf"
       },
       {
-        "file": "Xoa53_t-o-g-SketchUp.skb",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoa53_sfuso.pdf"
       },
       {
-        "file": "Xoa53_t-o-g-SketchUp.skp",
-        "status": "ok"
-      },
-      {
-        "file": "Xoa53_t-t-t_render.png",
-        "status": "ok"
-      },
-      {
-        "file": "Xoa53_t-t-t_SketchUp - Copia.skb",
-        "status": "ok"
-      },
-      {
-        "file": "Xoa53_t-t-t_SketchUp.skb",
-        "status": "ok"
-      },
-      {
-        "file": "Xoa53_t-t-t_SketchUp.skp",
-        "status": "ok"
-      },
-      {
-        "file": "xoa53_tavola_prospect.pdf",
-        "status": "ok"
-      },
-      {
-        "file": "xoa53_trilena_piante.bak",
-        "status": "ok"
-      },
-      {
-        "file": "xoa53_trilena_piante.dwg",
-        "status": "ok"
-      },
-      {
-        "file": "xoa53_trilena_tavola_prospect.layout",
-        "status": "ok"
+        "status": "err",
+        "file": "xoa53_montaggio.pdf"
       }
     ]
   },
   {
     "codice": "xoxia41-g",
-    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA41 DOPPIA/XOXIA41g",
     "nome": "",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XOXI Alluminio/xoxia ALTALENE/XOXIA41 DOPPIA/XOXIA41g",
     "categoria": "ALTALENE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "file": "Thumbs.db",
-        "status": "err"
+        "status": "ok",
+        "file": "xoxia41-g_3d_render.jpg"
       },
       {
-        "file": "xoxia41-g_3d_render.png",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-g_tavola_prospect.layout"
       },
       {
-        "file": "xoxia41-g_3d_sketchup.skp",
-        "status": "ok"
+        "status": "ok",
+        "file": "xoxia41-g_3d_sketchup.skp"
       },
       {
-        "file": "xoxia41-g_pianta.dwg",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-g_pianta.dwg"
       },
       {
-        "file": "xoxia41-g_scavi.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-g_piante.dwg"
       },
       {
-        "file": "xoxia41-g_sicurezza.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-g_gomma.pdf"
       },
       {
-        "file": "xoxia41-g_tavola_prospect.pdf",
-        "status": "ok"
+        "status": "err",
+        "file": "xoxia41-g_scavi.pdf"
       },
       {
-        "file": "xoxia41g_3d_render.jpg.bak",
-        "status": "err"
+        "status": "err",
+        "file": "xoxia41-g_sicurezza.pdf"
       },
       {
-        "file": "xoxia41g_3d_render.png.bak",
-        "status": "err"
+        "status": "err",
+        "file": "xoxia41-g_sfuso.pdf"
       },
       {
-        "file": "xoxia41g_3d_sketchup.skb",
-        "status": "err"
+        "status": "err",
+        "file": "xoxia41-g_montaggio.pdf"
       }
     ]
   },
