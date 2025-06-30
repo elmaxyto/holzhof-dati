@@ -36919,5 +36919,80 @@
         "status": "err"
       }
     ]
+  },
+  {
+    "codice": "bacheca eh01",
+    "percorso": "N:/HOLZHOF GIOCHI/ARREDO/varie Erhard 2025/bacheca",
+    "nome": "",
+    "categoria": "Arredo su misura Erhard 2025",
+    "supercategoria": "Z GIOCHI FUORI STANDARD",
+    "files": [
+      {
+        "file": "bacheca eh01_3d_render.png",
+        "status": "ok"
+      },
+      {
+        "file": "bacheca eh01_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "bacheca eh01_tavola_prospect.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "Backup di bacheca_tavola_prospect.layout",
+        "status": "warn"
+      },
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      }
+    ]
+  },
+  {
+    "codice": "leggio eh02",
+    "percorso": "N:/HOLZHOF GIOCHI/ARREDO/varie Erhard 2025/leggio",
+    "nome": "",
+    "categoria": "Arredo su misura Erhard 2025",
+    "supercategoria": "Z GIOCHI FUORI STANDARD",
+    "files": [
+      {
+        "file": "leggio eh02_3d_render.png",
+        "status": "ok"
+      },
+      {
+        "file": "leggio eh02_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "leggio eh02_tavola_prospect.pdf",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "totem eh03",
+    "percorso": "N:/HOLZHOF GIOCHI/ARREDO/varie Erhard 2025/totem",
+    "nome": "",
+    "categoria": "Arredo su misura Erhard 2025",
+    "supercategoria": "Z GIOCHI FUORI STANDARD",
+    "files": [
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "totem eh03_3d_render.png",
+        "status": "ok"
+      },
+      {
+        "file": "totem eh03_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "totem eh03_tavola_prospect.pdf",
+        "status": "ok"
+      }
+    ]
   }
 ]
