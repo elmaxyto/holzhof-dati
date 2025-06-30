@@ -15425,58 +15425,70 @@
   },
   {
     "codice": "xit301",
-    "nome": "Indian con teleferica",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XI Indian/xit301-20",
+    "nome": "",
     "categoria": "TELEFERICHE",
     "supercategoria": "GIOCHI",
     "files": [
       {
-        "status": "ok",
-        "file": "xit301_3d_render.png"
+        "file": "Audit report.txt",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xit301_tavola_prospect.layout"
+        "file": "plot.log",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xit301_tavola_prospect.pdf"
+        "file": "Thumbs.db",
+        "status": "err"
       },
       {
-        "status": "ok",
-        "file": "xit301_3d_sketchup.skp"
+        "file": "xit301_3d_render.png",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xit301_pianta.dwg"
+        "file": "xit301_3d_render.png.bak",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xit301_piante.dwg"
+        "file": "xit301_3d_sketchfab.skb",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xit301_piante_sito.dwg"
+        "file": "xit301_3d_sketchup.skb",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xit301_gomma.pdf"
+        "file": "xit301_3d_sketchup.skp",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xit301_scavi.pdf"
+        "file": "xit301_montaggio.pdf",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xit301_sicurezza.pdf"
+        "file": "xit301_pianta.dwg",
+        "status": "ok"
       },
       {
-        "status": "err",
-        "file": "xit301_sfuso.pdf"
+        "file": "xit301_piante.dwg",
+        "status": "ok"
       },
       {
-        "status": "ok",
-        "file": "xit301_montaggio.pdf"
+        "file": "xit301_piante_sito.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xit301_scavi.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xit301_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xit301_tavola_prospect.pdf",
+        "status": "ok"
       }
     ]
   },
@@ -36856,6 +36868,55 @@
       {
         "file": "xm200_alu_3d_render.png",
         "status": "warn"
+      }
+    ]
+  },
+  {
+    "codice": "xit301-2t",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XI Indian/xit301-20/xit301_due torri",
+    "nome": "teleferica due torri indian",
+    "categoria": "TELEFERICHE",
+    "supercategoria": "Z GIOCHI FUORI STANDARD",
+    "files": [
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xit301-2t_3d_render.png",
+        "status": "ok"
+      },
+      {
+        "file": "xit301-2t_3d_sketchup.skb",
+        "status": "ok"
+      },
+      {
+        "file": "xit301-2t_3d_sketchup.skp",
+        "status": "ok"
+      },
+      {
+        "file": "xit301-2t_pianta.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xit301-2t_scavi.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xit301-2t_sicurezza.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xit301_3d_sketchup.skb",
+        "status": "err"
+      },
+      {
+        "file": "xit301_pianta.bak",
+        "status": "err"
+      },
+      {
+        "file": "xit301_piante.bak",
+        "status": "err"
       }
     ]
   }
