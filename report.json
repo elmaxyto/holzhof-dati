@@ -30365,6 +30365,14 @@
         "status": "ok"
       },
       {
+        "file": "pcy200_3d_render.png.bak",
+        "status": "ok"
+      },
+      {
+        "file": "pcy200_3d_sketchup.skb",
+        "status": "ok"
+      },
+      {
         "file": "pcy200_3d_sketchup.skp",
         "status": "ok"
       },
@@ -35984,16 +35992,8 @@
         "status": "ok"
       },
       {
-        "file": "cmipn_milano1_3d_render.png",
-        "status": "warn"
-      },
-      {
         "file": "cmipn_milano1_3d_sketchup.skb",
         "status": "err"
-      },
-      {
-        "file": "cmipn_milano1_3d_sketchup.skp",
-        "status": "warn"
       },
       {
         "file": "cmipv_milano1_3d_sketchup.skp",
