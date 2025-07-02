@@ -36045,6 +36045,10 @@
         "status": "ok"
       },
       {
+        "file": "cmi2m_3d_sketchup.skp",
+        "status": "ok"
+      },
+      {
         "file": "Thumbs.db",
         "status": "err"
       }
