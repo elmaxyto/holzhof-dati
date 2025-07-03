@@ -31603,7 +31603,15 @@
     "supercategoria": "ARREDO",
     "files": [
       {
-        "file": "ct04_3d_render.jpg",
+        "file": "ct04_3d_render.png",
+        "status": "ok"
+      },
+      {
+        "file": "ct04_3d_render.png.bak",
+        "status": "ok"
+      },
+      {
+        "file": "ct04_3d_render_old.jpg",
         "status": "ok"
       },
       {
@@ -36235,6 +36243,10 @@
       },
       {
         "file": "ct03_3d_render.png.bak",
+        "status": "ok"
+      },
+      {
+        "file": "ct03_3d_sketchup.skb",
         "status": "ok"
       },
       {
