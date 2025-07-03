@@ -35574,11 +35574,19 @@
     "supercategoria": "ARREDO",
     "files": [
       {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
         "file": "xp54eco-r_3d_render.png",
         "status": "ok"
       },
       {
         "file": "xp54eco-r_3d_render.png.bak",
+        "status": "ok"
+      },
+      {
+        "file": "xp54eco-r_3d_sketchup.skb",
         "status": "ok"
       },
       {
