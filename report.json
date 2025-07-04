@@ -5398,7 +5398,7 @@
     "codice": "xime200",
     "nome": "",
     "percorso": "N:/HOLZHOF GIOCHI/LINEE/XI Indian/xime Megan/xime200(ex104)/xime200",
-    "categoria": "ACQUA E SABBIA",
+    "categoria": "MEGAN",
     "files": [
       {
         "status": "ok",
@@ -37031,6 +37031,502 @@
       },
       {
         "file": "totem eh03_tavola_prospect.pdf",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xrit101",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XR Country Robinia/xrit101 teleferica singola 20 mt pendenza",
+    "nome": "singola 20m pendenza country",
+    "categoria": "TELEFERICHE",
+    "supercategoria": "GIOCHI",
+    "files": [
+      {
+        "file": "relazione DA STAMPARE PER PRODUZIONE.pdf",
+        "status": "err"
+      },
+      {
+        "file": "schema area impatto.dwg",
+        "status": "err"
+      },
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xrit101_3d_sketchup.skp",
+        "status": "ok"
+      },
+      {
+        "file": "xrit101_pianta.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xrit101_tavola_prospect.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xrit101_xrit101_telferica_pendenza_20mt_tavola_tecnica.layout",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xrit102",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XR Country Robinia/xrit102 teleferica singola 20 mt piana",
+    "nome": "singlola 20m piana country",
+    "categoria": "TELEFERICHE",
+    "supercategoria": "GIOCHI",
+    "files": [
+      {
+        "file": "relazione DA STAMPARE PER PRODUZIONE.pdf",
+        "status": "err"
+      },
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xrit102_3d_sketchup.skp",
+        "status": "ok"
+      },
+      {
+        "file": "xrit102_tavola_prospect.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xrit102_teleferica piana_interro montanti.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xrit102_teleferica piana_interro staffe fe.dwg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xrit111",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XR Country Robinia/xrit111 teleferica doppia 30 mt pendenza",
+    "nome": "doppia 30m pendenza country",
+    "categoria": "TELEFERICHE",
+    "supercategoria": "GIOCHI",
+    "files": [
+      {
+        "file": "Backup di xrit112 teleferica doppia 30 mt piana tavola tecnica.layout",
+        "status": "err"
+      },
+      {
+        "file": "relazione.pdf",
+        "status": "err"
+      },
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xrit111_3d_sketchup.skp",
+        "status": "ok"
+      },
+      {
+        "file": "xrit111_pianta.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xrit111_tavola_prospect.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xrit112 teleferica doppia 30 mt piana tavola tecnica.layout",
+        "status": "err"
+      },
+      {
+        "file": "xrit112 teleferica doppia 30 mt piana tavola tecnica.pdf",
+        "status": "err"
+      }
+    ]
+  },
+  {
+    "codice": "xrit112",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XR Country Robinia/xrit112 teleferica doppia 30 mt piana",
+    "nome": "doppia 30m piana country",
+    "categoria": "TELEFERICHE",
+    "supercategoria": "GIOCHI",
+    "files": [
+      {
+        "file": "relazione.pdf",
+        "status": "err"
+      },
+      {
+        "file": "schema teleferica 30m.dwg",
+        "status": "err"
+      },
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xrit112 teleferica doppia 30 mt piana tavola tecnica.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xrit112_3d_sketchup.skp",
+        "status": "ok"
+      },
+      {
+        "file": "xrit112_pianta.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xrit112_tavola_prospect.pdf",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xrit121",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XR Country Robinia/xrit121 teleferica doppia 20 mt pendenza",
+    "nome": "doppia 20m pendenza country",
+    "categoria": "TELEFERICHE",
+    "supercategoria": "GIOCHI",
+    "files": [
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xrit121_3d_sketchup.skp",
+        "status": "ok"
+      },
+      {
+        "file": "xrit121_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xrit121_tavola_prospect.pdf",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xrit122",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XR Country Robinia/xrit122 teleferica doppia 20 mt piana",
+    "nome": "doppia 20m piana country",
+    "categoria": "TELEFERICHE",
+    "supercategoria": "GIOCHI",
+    "files": [
+      {
+        "file": "Backup di xrit122_teleferica doppia 20m.layout",
+        "status": "err"
+      },
+      {
+        "file": "dimensioni cunette.pdf",
+        "status": "err"
+      },
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xrit122_3d_sketchup.skp",
+        "status": "ok"
+      },
+      {
+        "file": "xrit122_sicurezza.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xrit122_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xrit122_tavola_prospect.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xrit122_teleferica doppia 20m_pianta.dwg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xrit131",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XR Country Robinia/xrit131 teleferica 30 mt singola pendenza",
+    "nome": "singola 30m pendenza country",
+    "categoria": "TELEFERICHE",
+    "supercategoria": "GIOCHI",
+    "files": [
+      {
+        "file": "Backup di xrit131 teleferica singola 30m.layout",
+        "status": "err"
+      },
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xrit131_3d_sketchup.skp",
+        "status": "ok"
+      },
+      {
+        "file": "xrit131_3d_teleferica singola 30m_sketchup.skb",
+        "status": "ok"
+      },
+      {
+        "file": "xrit131_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xrit131_tavola_prospect.pdf",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xrit132",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XR Country Robinia/xrit132 teleferica singola piana 30m",
+    "nome": "singola 30m piana country",
+    "categoria": "TELEFERICHE",
+    "supercategoria": "GIOCHI",
+    "files": [
+      {
+        "file": "Audit report.txt",
+        "status": "err"
+      },
+      {
+        "file": "relazione.pdf",
+        "status": "err"
+      },
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xrit132_3d_sketchup.skp",
+        "status": "ok"
+      },
+      {
+        "file": "xrit132_3d_teleferica singola 30m.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xrit132_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xrit132_tavola_prospect.pdf",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xcse01",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcse01 sabbiera pe esagonale",
+    "nome": "",
+    "categoria": "ACQUA E SABBIA",
+    "supercategoria": "GIOCHI",
+    "files": [
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xcse01 3d.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xcse01 sabbiera esagonale tavola tuv.jpg",
+        "status": "ok"
+      },
+      {
+        "file": "xcse01 tavola tuv.png",
+        "status": "ok"
+      },
+      {
+        "file": "xcse01 tavola tuv.skp",
+        "status": "ok"
+      },
+      {
+        "file": "xcse01_3d_render.png",
+        "status": "ok"
+      },
+      {
+        "file": "xcse01_3d_sketchup.skp",
+        "status": "ok"
+      },
+      {
+        "file": "xcse01_pianta.dwg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xcso01",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcso01(sabbiera Pe ottagonale)",
+    "nome": "",
+    "categoria": "ACQUA E SABBIA",
+    "supercategoria": "GIOCHI",
+    "files": [
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xcse01 3d.dwg",
+        "status": "err"
+      },
+      {
+        "file": "xcso01 3d.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xcso01 pianta.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xcso01 sabbiera esagonale tavola tuv.jpg",
+        "status": "ok"
+      },
+      {
+        "file": "xcso01 tavola tuv.png",
+        "status": "ok"
+      },
+      {
+        "file": "xcso01 tavola tuv.skp",
+        "status": "ok"
+      },
+      {
+        "file": "xcso01_3d_render.png",
+        "status": "ok"
+      },
+      {
+        "file": "xcso01_3d_sketchup.skp",
+        "status": "ok"
+      },
+      {
+        "file": "xcso01_pianta.dwg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xcs09",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcs09",
+    "nome": "",
+    "categoria": "ACQUA E SABBIA",
+    "supercategoria": "GIOCHI",
+    "files": [
+      {
+        "file": "Backup di xcs09_tavola_prospect.layout",
+        "status": "warn"
+      },
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xcs09 sabbiera 3d.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xcs09 sabbiera 3d.zip",
+        "status": "ok"
+      },
+      {
+        "file": "xcs09 sabbiera tavola tuv.jpg",
+        "status": "ok"
+      },
+      {
+        "file": "xcs09 sabbiera tavola tuv.png",
+        "status": "ok"
+      },
+      {
+        "file": "xcs09 sabbiera tavola tuv.skp",
+        "status": "ok"
+      },
+      {
+        "file": "xcs09_3d_render.png",
+        "status": "ok"
+      },
+      {
+        "file": "xcs09_3d_sketchup.skp",
+        "status": "ok"
+      },
+      {
+        "file": "xcs09_pianta.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xcs09_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xcs09_tavola_prospect.pdf",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xcs06",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XC Classic/xcs06",
+    "nome": "",
+    "categoria": "ACQUA E SABBIA",
+    "supercategoria": "GIOCHI",
+    "files": [
+      {
+        "file": "Backup di xcs06_tavola_prospect.layout",
+        "status": "warn"
+      },
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xcs06 sabbiera tavola tuv.jpg",
+        "status": "ok"
+      },
+      {
+        "file": "xcs06sabbiera 3d.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xcs06sabbiera 3d.skb",
+        "status": "ok"
+      },
+      {
+        "file": "xcs06sabbiera 3d.zip",
+        "status": "ok"
+      },
+      {
+        "file": "xcs06sabbiera tavola tuv.png",
+        "status": "ok"
+      },
+      {
+        "file": "xcs06sabbiera tavola tuv.skp",
+        "status": "ok"
+      },
+      {
+        "file": "xcs06_3d_render.png",
+        "status": "ok"
+      },
+      {
+        "file": "xcs06_3d_sketchup.skp",
+        "status": "ok"
+      },
+      {
+        "file": "xcs06_montaggio.pdf",
+        "status": "ok"
+      },
+      {
+        "file": "xcs06_pianta.dwg",
+        "status": "ok"
+      },
+      {
+        "file": "xcs06_tavola_prospect.layout",
+        "status": "ok"
+      },
+      {
+        "file": "xcs06_tavola_prospect.pdf",
         "status": "ok"
       }
     ]
