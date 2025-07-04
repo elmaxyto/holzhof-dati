@@ -37530,5 +37530,448 @@
         "status": "ok"
       }
     ]
+  },
+  {
+    "codice": "xp39",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/50x50/xp39 - 30",
+    "nome": "",
+    "categoria": "50x50",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xp39_3d_render.jpg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp100",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/50x50/xp100 - 45",
+    "nome": "",
+    "categoria": "50x50",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xp100_3d_render.jpg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp100v",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/50x50/xp100v - 45 verdi",
+    "nome": "",
+    "categoria": "50x50",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "xp100v_3d_render.png",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp101",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/50x50/xp101 - doppio smusso 45",
+    "nome": "",
+    "categoria": "50x50",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "xp101_3d_render.jpg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp102",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/50x50/xp102 - smusso 45",
+    "nome": "",
+    "categoria": "50x50",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "xp102_3d_render.jpg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp103",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/50x50/xp103 - smusso angolo 45",
+    "nome": "",
+    "categoria": "50x50",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "xp103_3d_render.jpg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp104",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/50x50/xp104 - mezza piastra con smusso",
+    "nome": "",
+    "categoria": "50x50",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "xp104_3d_render.jpg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp105",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/50x50/xp105 - mezza piastra 25x100",
+    "nome": "",
+    "categoria": "50x50",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "xp105_3d_render.jpg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp200",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/50x50/xp200 - 65",
+    "nome": "",
+    "categoria": "50x50",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xp200_3d_render.jpg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp200v",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/50x50/xp200v - 65 verdi",
+    "nome": "",
+    "categoria": "50x50",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "xp200v_3d_render.png",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp201",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/50x50/xp201 doppio smusso 65",
+    "nome": "",
+    "categoria": "50x50",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "xp201_3d_render.jpg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp202",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/50x50/xp202 - smusso 65",
+    "nome": "",
+    "categoria": "50x50",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "xp202_3d_render.jpg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp203",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/50x50/xp203 - smusso angolo 65",
+    "nome": "",
+    "categoria": "50x50",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "xp203_3d_render.jpg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp300",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/50x50/xp300 - 80",
+    "nome": "",
+    "categoria": "50x50",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "xp300_3d_render.jpg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp100200",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/50x50/xp100200 - 45 a 65",
+    "nome": "",
+    "categoria": "50x50",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xp100200_3d_render.jpg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp94",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/100x100/xp94 - 30",
+    "nome": "",
+    "categoria": "100x100",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xp94_3d_render.jpg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp95",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/100x100/xp95 - 45",
+    "nome": "",
+    "categoria": "100x100",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xp95_3d_render.jpg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp245",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/100x100/xp245 - griglia 45",
+    "nome": "",
+    "categoria": "100x100",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xp245_3d_render.jpg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp265",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/100x100/xp265 - griglia 65",
+    "nome": "",
+    "categoria": "100x100",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
+        "file": "xp265_3d_render.jpg",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "codice": "xp123",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/speciali/xp123 - profilo di contenimento",
+    "nome": "",
+    "categoria": "speciali",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "img-products-playgrounds-safety-matting-xp123-img-xp123-900.jpg",
+        "status": "err"
+      }
+    ]
+  },
+  {
+    "codice": "xp126",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/speciali/xp126 -gradino",
+    "nome": "",
+    "categoria": "speciali",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "img-products-playgrounds-safety-matting-xp126-img-xp126-900.jpg",
+        "status": "err"
+      }
+    ]
+  },
+  {
+    "codice": "xp130",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/speciali/xp130 - bordo a catena",
+    "nome": "",
+    "categoria": "speciali",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "img-products-playgrounds-safety-matting-xp130-img-xp130-900.jpg",
+        "status": "err"
+      }
+    ]
+  },
+  {
+    "codice": "xp132",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/speciali/xp132 - profilo angolare con smusso",
+    "nome": "",
+    "categoria": "speciali",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "img-products-playgrounds-safety-matting-xp132-img-xp132-900.jpg",
+        "status": "err"
+      }
+    ]
+  },
+  {
+    "codice": "xp134",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/speciali/xp134 - copertura bordo",
+    "nome": "",
+    "categoria": "speciali",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "img-products-playgrounds-safety-matting-xp134-img-xp134-900.jpg",
+        "status": "err"
+      }
+    ]
+  },
+  {
+    "codice": "xp145",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/speciali/xp145 - puzzle",
+    "nome": "",
+    "categoria": "speciali",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "img-products-playgrounds-safety-matting-xp145-img-xp145-900.jpg",
+        "status": "err"
+      }
+    ]
+  },
+  {
+    "codice": "xp150",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/speciali/xp150 - piastra a L",
+    "nome": "",
+    "categoria": "speciali",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "img-products-playgrounds-safety-matting-xp150-img-xp150-900.jpg",
+        "status": "err"
+      },
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      }
+    ]
+  },
+  {
+    "codice": "xp160",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/speciali/xp160 - ciambella molle",
+    "nome": "",
+    "categoria": "speciali",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "img-products-playgrounds-safety-matting-xp160-img-xp160-900.jpg",
+        "status": "err"
+      }
+    ]
+  },
+  {
+    "codice": "xp186",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/speciali/xp186 - profilo angolare",
+    "nome": "",
+    "categoria": "speciali",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "img-products-playgrounds-safety-matting-xp186-img-xp186-900.jpg",
+        "status": "err"
+      }
+    ]
+  },
+  {
+    "codice": "xp187",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/speciali/xp187 - profilo angolare",
+    "nome": "",
+    "categoria": "speciali",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "img-products-playgrounds-safety-matting-xp187-img-xp187-900.jpg",
+        "status": "err"
+      }
+    ]
+  },
+  {
+    "codice": "xp188",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/speciali/xp188 - profilo di contenimento",
+    "nome": "",
+    "categoria": "speciali",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "img-products-playgrounds-safety-matting-xp188-img-xp188-900.jpg",
+        "status": "err"
+      }
+    ]
+  },
+  {
+    "codice": "xp190",
+    "percorso": "N:/HOLZHOF GIOCHI/LINEE/XP Plus/pavimentazioni in gomma/speciali/xp190 - pouff dondolo",
+    "nome": "",
+    "categoria": "speciali",
+    "supercategoria": "PAVIMENTAZIONI",
+    "files": [
+      {
+        "file": "img-products-playgrounds-safety-matting-xp190-img-xp190-900.jpg",
+        "status": "err"
+      },
+      {
+        "file": "Thumbs.db",
+        "status": "err"
+      }
+    ]
   }
 ]
