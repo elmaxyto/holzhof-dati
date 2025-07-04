@@ -35624,11 +35624,27 @@
     "supercategoria": "ARREDO",
     "files": [
       {
+        "file": "Thumbs.db",
+        "status": "err"
+      },
+      {
         "file": "xp54b_3d_render.png",
         "status": "ok"
       },
       {
         "file": "xp54b_3d_render.png.bak",
+        "status": "ok"
+      },
+      {
+        "file": "xp54b_3d_render_old.png",
+        "status": "ok"
+      },
+      {
+        "file": "xp54b_3d_render_old.png.bak",
+        "status": "ok"
+      },
+      {
+        "file": "xp54b_3d_sketchup.skb",
         "status": "ok"
       },
       {
@@ -35679,10 +35695,6 @@
       },
       {
         "file": "xp54r_3d_render.png.bak",
-        "status": "ok"
-      },
-      {
-        "file": "xp54r_3d_sketchup.skb",
         "status": "ok"
       },
       {
